@@ -1,6559 +1,6495 @@
 1
 00:00:50,000 --> 00:00:51,000
-Mom?
+Nikita: Mom?
 
 2
 00:00:54,000 --> 00:00:57,000
-Nikita, when am I going to eat?
+Mom: Nikita, when am I going to eat?
 
 3
 00:00:58,000 --> 00:00:59,000
-I'm deaf and can't hear you.
+Nikita: I'm deaf and can't hear you.
 
 4
 00:00:59,000 --> 00:01:00,000
-Turn it off.
+Mom: Turn it off.
 
 5
 00:01:00,000 --> 00:01:01,000
-I'll just finish watching it.
+Nikita: I'll just finish watching it.
 
 6
 00:01:25,000 --> 00:01:26,000
-Get up!
+Mom: Get up!
 
 7
 00:01:34,000 --> 00:01:35,000
-Good morning.
+Mom: Good morning.
 
 8
 00:01:37,000 --> 00:01:40,000
-Please brush your teeth and have breakfast.
+Mom: Please brush your teeth and have breakfast.
 
 9
 00:01:41,000 --> 00:01:42,000
-Mom, it's the holidays, Zhenya.
+Katya: Mom, it's the holidays, Zhenya.
 
 10
 00:01:43,000 --> 00:01:45,000
-So what? If you lie in bed all day, what will happen?
+Mom: So what? If you lie in bed all day, what will happen?
 
 11
 00:01:46,000 --> 00:01:47,000
-Apocalypse.
+Katya: Apocalypse.
 
 12
 00:01:47,000 --> 00:01:48,000
-The regime will collapse.
+Katya: The regime will collapse.
 
 13
 00:01:48,000 --> 00:01:49,000
-Get up!
+Mom: Get up!
 
 14
 00:01:57,000 --> 00:01:58,000
-Dad!
+Mom: Dad!
 
 15
 00:02:01,000 --> 00:02:02,000
-Dad!
+Mom: Dad!
 
 16
 00:02:04,000 --> 00:02:05,000
-Dad!
+Mom: Dad!
 
 17
 00:02:09,000 --> 00:02:12,000
-Are you spying on your own father?
+Grandpa: Are you spying on your own father?
 
 18
 00:02:13,000 --> 00:02:15,000
-Why would I spy on him?
+Mom: Why would I spy on him?
 
 19
 00:02:15,000 --> 00:02:17,000
-The breakfast is ready. Let's go.
+Mom: The breakfast is ready. Let's go.
 
 20
 00:02:22,000 --> 00:02:23,000
-It's okay.
+Grandpa: It's okay.
 
 21
 00:02:25,000 --> 00:02:28,000
-I'll take care of myself.
+Grandpa: I'll take care of myself somehow.
 
 22
-00:02:28,000 --> 00:02:29,000
-I'll take care of myself.
+00:02:35,000 --> 00:02:37,000
+Mom: Good morning, dad.
 
 23
-00:02:30,000 --> 00:02:33,000
-I can't live without you, I just can't.
+00:02:41,000 --> 00:02:44,000
+Grandpa: Why are you looking at me like that?
 
 24
-00:02:36,000 --> 00:02:38,000
-Nikita, could you leave me alone?
+00:02:44,000 --> 00:02:46,000
+Grandpa: I can't live without you.
 
 25
-00:02:39,000 --> 00:02:42,000
-Mom, Nikita ate all the cotton again.
+00:02:46,000 --> 00:02:48,000
+Grandpa: I really can't
 
 26
-00:02:42,000 --> 00:02:44,000
-It's not cotton, it's balls.
+00:02:52,000 --> 00:02:54,000
+Katya: Nikita, could you leave me alone?
 
 27
-00:02:44,000 --> 00:02:46,000
-You don't eat such things.
+00:02:55,000 --> 00:02:58,000
+Katya: Mom, Nikita ate all the cotton again.
 
 28
-00:02:46,000 --> 00:02:47,000
-Nikita!
+00:02:58,000 --> 00:02:59,000
+Nikita: It's not cotton, it's balls.
 
 29
-00:02:47,000 --> 00:02:48,000
-Nikita!
+00:02:59,000 --> 00:03:00,000
+Nikita: You wouldn't know you don't even eat this.
 
 30
-00:02:48,000 --> 00:02:49,000
-Nikita!
+00:03:00,000 --> 00:03:02,900
+Mom: Please be quiet! I am on a roll with migraine
 
 31
-00:02:49,000 --> 00:02:50,000
-Nikita!
+00:03:02,900 --> 00:03:03,900
+Dad: Sveta!
 
 32
-00:02:50,000 --> 00:02:51,000
-Nikita!
+00:03:03,900 --> 00:03:04,900
+Mom: Yes!!
 
 33
-00:02:51,000 --> 00:02:52,000
-Nikita!
+00:03:04,900 --> 00:03:06,900
+Mom: And I'm on a roll with starvation, mom.
 
 34
-00:02:52,000 --> 00:02:53,000
-Nikita!
+00:03:06,900 --> 00:03:07,900
+Dad: Sveta!
 
 35
-00:02:53,000 --> 00:02:54,000
-Nikita!
+00:03:07,900 --> 00:03:08,900
+Katya: Cereal!?
 
 36
-00:02:54,000 --> 00:02:55,000
-Nikita!
+00:03:08,900 --> 00:03:09,900
+Dad: Sveta!
 
 37
-00:02:55,000 --> 00:02:56,000
-Nikita!
+00:03:09,900 --> 00:03:10,900
+Katya: Mom, I won't eat this!
 
 38
-00:02:56,000 --> 00:02:57,000
-Nikita!
+00:03:10,900 --> 00:03:12,900
+Mom: If you want some fried eggs then fry them yourself.
 
 39
-00:02:57,000 --> 00:02:58,000
-Nikita!
+00:03:12,900 --> 00:03:15,900
+Katya: You know, I'll just burn everything and you'll get the migraine again.
 
 40
-00:02:58,000 --> 00:02:59,000
-Nikita!
+00:03:17,900 --> 00:03:20,900
+Nikita: Dad, how about we go visiting our Estamosthoi people?
 
 41
-00:02:59,000 --> 00:03:00,000
-A good ball. You don't eat them.
+00:03:20,900 --> 00:03:22,700
+Dad: What Estamosthoi people? You know, I'm working until it's dark.
 
 42
-00:03:00,000 --> 00:03:02,900
-Please be quiet! I am on a roll with migraine
+00:03:22,700 --> 00:03:24,820
+Dad: Go and see your Grandpa.
 
 43
-00:03:02,900 --> 00:03:03,900
-Sveta!
+00:03:24,820 --> 00:03:26,820
+Dad: Sveta, please help.
 
 44
-00:03:03,900 --> 00:03:04,900
-Yes!!
+00:03:28,000 --> 00:03:31,120
+Dad: Sveta, help me. I feel like I have a snake hanging here.
 
 45
-00:03:04,900 --> 00:03:06,900
-And I'm on a roll with starvation, mom.
+00:03:34,880 --> 00:03:36,840
+Katya: Dad, are you in a corporation or what?
 
 46
-00:03:06,900 --> 00:03:07,900
-Sveta!
+00:03:36,880 --> 00:03:38,240
+Mom: We have a promotion.
 
 47
-00:03:07,900 --> 00:03:08,900
-Kasha.
+00:03:39,520 --> 00:03:43,200
+Dad: You know, I wouldn't be so sure. We still have to ask him.
 
 48
-00:03:08,900 --> 00:03:09,900
-Sveta!
+00:03:43,800 --> 00:03:47,320
+Mom: Be sure and be positive. You'll succeed.
 
 49
-00:03:09,900 --> 00:03:10,900
-Mom, I won't!
+00:03:52,400 --> 00:03:53,600
+Potapov: What did he say?
 
 50
-00:03:10,900 --> 00:03:12,900
-Don't you want to make yourISSAW жд Kunden?
+00:03:54,880 --> 00:03:56,200
+Potapov Henchman: Some promotion.
 
 51
-00:03:12,900 --> 00:03:15,900
-You know, my bleeders will take over and you'll get the migraine again.
+00:03:56,200 --> 00:03:57,520
+Potapov: Is he out of his mind?
 
 52
-00:03:17,900 --> 00:03:20,900
-Dad, how about we go visiting our Estamosthoi people?
+00:03:58,840 --> 00:03:59,960
+Potapov: Are you out of your mind?
 
 53
-00:03:20,900 --> 00:03:22,700
-What Estamosthoi people? You know, I'm working until it's dark.
+00:04:01,240 --> 00:04:03,880
+Dad: A regular promotion. But in the future.
 
 54
-00:03:22,700 --> 00:03:24,820
-Juss meet me with grandpa.
+00:04:03,920 --> 00:04:05,080
+Potapov: In what future?
 
 55
-00:03:24,820 --> 00:03:26,820
-Sveta, please help him.
+00:04:05,120 --> 00:04:08,560
+Dad: In the near future. I've thought about it. How to attract new investments.
 
 56
-00:03:28,000 --> 00:03:31,120
-Sveta, help me. I feel like I have a snake hanging here.
+00:04:08,600 --> 00:04:09,800
+Potapov: Investments?
 
 57
-00:03:34,880 --> 00:03:36,840
-Dad, are you in a corporation or what?
+00:04:11,680 --> 00:04:14,520
+Potapov: I didn't have time to read about the past investments.
 
 58
-00:03:36,880 --> 00:03:38,240
-We have a promotion.
+00:04:14,560 --> 00:04:16,680
+Potapov: And they're already coming to me from Moscow with a check.
 
 59
-00:03:39,520 --> 00:03:43,200
-You know, I wouldn't be so sure. We still have to ask him.
+00:04:17,800 --> 00:04:18,800
+Potapov: That's good.
 
 60
-00:03:43,800 --> 00:03:47,320
-Be sure and be positive. You'll succeed.
+00:04:19,400 --> 00:04:21,280
+Potapov: Good people have time to warn.
 
 61
-00:03:52,400 --> 00:03:53,600
-What did he say?
+00:04:21,560 --> 00:04:25,480
+Potapov: They first went to bloggers, and now to honest entrepreneurs.
 
 62
-00:03:54,880 --> 00:03:56,200
-Some promotion.
+00:04:26,200 --> 00:04:27,520
+Potapov: Where did they come from?
 
 63
-00:03:56,200 --> 00:03:57,520
-Is he out of his mind?
+00:04:27,560 --> 00:04:29,160
+Potapov: And what can I show them?
 
 64
-00:03:58,840 --> 00:03:59,960
-Are you out of your mind?
+00:04:30,440 --> 00:04:31,960
+Potapov: A hole from the public? That's it?
 
 65
-00:04:01,240 --> 00:04:03,880
-A regular promotion. But in the future.
+00:04:35,240 --> 00:04:36,760
+Potapov: We tried, at least.
 
 66
-00:04:03,920 --> 00:04:05,080
-In what future?
+00:04:37,440 --> 00:04:40,600
+Potapov: But I'm sorry to have to tell you that...
 
 67
-00:04:05,120 --> 00:04:08,560
-In the near future. I've thought about it. How to attract new investments.
+00:04:42,320 --> 00:04:44,000
+Potapov: I'm closing our project.
 
 68
-00:04:08,600 --> 00:04:09,800
-Investments?
+00:05:12,040 --> 00:05:14,480
+Popatov Henchman: Artak Seminovich, did you decide for sure?
 
 69
-00:04:11,680 --> 00:04:14,520
-I didn't have time to read about the past investments.
+00:05:14,720 --> 00:05:16,320
+Popatov: There's nowhere to decide.
 
 70
-00:04:14,560 --> 00:04:16,680
-And they're already coming to me from Moscow with a check.
+00:05:16,320 --> 00:05:29,640
+Popatov: Get ready.
 
 71
-00:04:17,800 --> 00:04:18,800
-That's good.
-
-72
-00:04:19,400 --> 00:04:21,280
-Good people have time to warn.
-
-73
-00:04:21,560 --> 00:04:25,480
-They first went to bloggers, and now to honest entrepreneurs.
-
-74
-00:04:26,200 --> 00:04:27,520
-Where did they come from?
-
-75
-00:04:27,560 --> 00:04:29,160
-And what can I show them?
-
-76
-00:04:30,440 --> 00:04:31,960
-A hole from the public? That's it?
-
-77
-00:04:35,240 --> 00:04:36,760
-We tried, at least.
-
-78
-00:04:37,440 --> 00:04:40,600
-But I'm sorry to have to tell you that...
-
-79
-00:04:42,320 --> 00:04:44,000
-I'm closing our project.
-
-80
-00:04:56,200 --> 00:04:57,800
-Let's do better.
-
-81
-00:04:58,080 --> 00:04:59,920
-A little more than 인 token.
-
-82
-00:05:00,280 --> 00:05:01,520
-A little bit more!
-
-83
-00:05:12,240 --> 00:05:13,400
-Anations!
-
-84
-00:05:20,040 --> 00:05:22,480
-Artak Seminovich, did you decide for sure?
-
-85
-00:05:22,720 --> 00:05:24,320
-There's nowhere to decide.
-
-86
-00:05:24,320 --> 00:05:37,640
-The
-
-87
 00:05:40,440 --> 00:05:42,440
 Wow! What is this?
 
-88
+72
 00:05:43,540 --> 00:05:44,540
 Meteorite?
 
-89
+73
 00:05:46,480 --> 00:05:49,420
 Grandpa, the meteorite fell right behind our village.
 
-90
+74
 00:05:49,800 --> 00:05:52,780
 Well, I saw it. Is it a trace from the plane?
 
-91
+75
 00:05:52,780 --> 00:05:55,840
 No, it's definitely a meteorite. I saw it.
 
-92
+76
 00:05:56,400 --> 00:05:57,600
 Let's go and see.
 
-93
+77
 00:05:59,540 --> 00:06:02,840
 What if we present the model again?
 
-94
+78
 00:06:03,100 --> 00:06:07,200
 And the fact that the terms have moved, well, let's say, we've reworked everything inside.
 
-95
+79
 00:06:07,560 --> 00:06:09,720
 I won't pay 2 billion for the model.
 
-96
+80
 00:06:10,480 --> 00:06:13,560
 We've already shown the model twice. They'll just put me in third place.
 
-97
+81
 00:06:13,840 --> 00:06:14,840
 What if...
 
-98
+82
 00:06:14,860 --> 00:06:16,160
 What if? What?
 
-99
+83
 00:06:18,020 --> 00:06:19,020
 No ifs.
 
-100
+84
 00:06:21,680 --> 00:06:22,680
 Well...
 
-101
+85
 00:06:23,180 --> 00:06:26,720
 Well, we didn't manage to do it with you, the taxi-flying guy.
 
-102
+86
 00:06:28,540 --> 00:06:30,540
 Well, who could have thought that it would turn out like this?
 
-103
+87
 00:06:33,600 --> 00:06:36,020
 And Moscow didn't manage to do it either.
 
-104
+88
 00:06:39,360 --> 00:06:41,960
 There are no such technologies. Where can we get them?
 
-105
+89
 00:06:42,580 --> 00:06:43,580
 These technologies.
 
-106
+90
 00:06:44,700 --> 00:06:45,700
 That's it.
 
-107
+91
 00:06:46,100 --> 00:06:47,100
 Come on.
 
-108
+92
 00:06:48,160 --> 00:06:49,160
 Ah.
 
-109
+93
 00:06:50,480 --> 00:06:51,480
 Goodbye.
 
-110
+94
 00:06:52,780 --> 00:06:53,680
 Come on.
 
-111
+95
 00:06:56,640 --> 00:06:57,640
 No.
 
-112
+96
 00:07:03,080 --> 00:07:04,000
 No.
 
-113
+97
 00:07:04,000 --> 00:07:05,000
 There we go.
 
-114
+98
 00:07:05,540 --> 00:07:06,160
 No.
 
-115
+99
 00:07:08,200 --> 00:07:09,200
 Iven.
 
-116
+100
 00:07:11,300 --> 00:07:12,700
 Woah, woah.
 
-117
+101
 00:07:17,580 --> 00:07:18,740
 Try again.
 
-118
+102
 00:07:19,560 --> 00:07:21,360
 Even more looks.
 
-119
+103
 00:07:21,380 --> 00:07:22,320
 There.
 
-120
+104
 00:07:22,460 --> 00:07:22,760
 Wait.
 
-121
+105
 00:07:22,760 --> 00:07:23,760
 That's it.
 
-122
+106
 00:07:24,360 --> 00:07:25,480
 Help me!
 
-123
+107
 00:07:26,040 --> 00:07:27,520
 Come on, drag me down!
 
-124
+108
 00:07:30,680 --> 00:07:32,400
 Come on, drag me down!
 
-125
+109
 00:07:32,600 --> 00:07:33,880
 Come on, grab me faster!
 
-126
+110
 00:07:46,960 --> 00:07:48,240
 What was that just now?
 
-127
+111
 00:07:49,040 --> 00:07:50,040
 What?
 
-128
+112
 00:07:50,600 --> 00:07:51,880
 What is this thing?
 
-129
+113
 00:07:51,880 --> 00:07:53,000
 How do I know?
 
-130
+114
 00:07:53,080 --> 00:07:56,840
 Maybe it fell off our space station?
 
-131
+115
 00:07:57,320 --> 00:07:59,080
 It's obviously high-tech.
 
-132
+116
 00:07:59,680 --> 00:08:01,160
 We need to find out where it came from.
 
-133
+117
 00:08:10,480 --> 00:08:11,480
 Hi, Dad!
 
-134
+118
 00:08:13,160 --> 00:08:14,840
 Hi. Did you have a day off?
 
-135
+119
 00:08:15,080 --> 00:08:16,080
 Yeah, I did.
 
-136
+120
 00:08:16,840 --> 00:08:18,120
 I don't want to rest.
 
-137
+121
 00:08:18,440 --> 00:08:19,440
 Okay, bye.
 
-138
+122
 00:08:21,880 --> 00:08:23,560
 Those parts, okay?
 
-139
+123
 00:08:37,200 --> 00:08:40,840
 And here, the meteorite falls in the forest in search of grapes.
 
-140
+124
 00:08:41,080 --> 00:08:43,600
 If you go to our forest and find out where it went down from,
 
-141
+125
 00:08:43,680 --> 00:08:44,520
 that'll take you.
 
-142
+126
 00:08:44,760 --> 00:08:45,760
 What is this even?
 
-143
+127
 00:08:45,840 --> 00:08:49,440
 The meteorite of the Space Station or Glacier on Poisonous Legs.
 
-144
+128
 00:08:49,720 --> 00:08:50,200
 Ahead!
 
-145
+129
 00:08:50,440 --> 00:08:51,240
 Right.
 
-146
+130
 00:08:51,880 --> 00:08:53,880
 We will be the richest! Hooray!
 
-147
+131
 00:09:21,880 --> 00:09:25,880
 Excuse me, citizen, have you seen anything strange here?
 
-148
+132
 00:09:25,880 --> 00:09:27,880
 They say a meteorite has fallen somewhere here.
 
-149
+133
 00:09:28,880 --> 00:09:30,880
 Men, do I look like an astronomer?
 
-150
+134
 00:09:32,880 --> 00:09:34,880
 I'm not surprised, you know.
 
-151
+135
 00:09:35,880 --> 00:09:38,880
 First, they poked us with 5G towers everywhere.
 
-152
+136
 00:09:38,880 --> 00:09:41,880
 Then the satellites began to descend from the orbit.
 
-153
+137
 00:09:41,880 --> 00:09:43,880
 The towers have nothing to do with it.
 
-154
+138
 00:09:43,880 --> 00:09:45,880
 It's a meteorite rain. Perseids.
 
-155
+139
 00:09:45,880 --> 00:09:47,880
 Maloy, what are Perseids?
 
-156
+140
 00:09:48,880 --> 00:09:51,880
 Every year in August our planet passes through a stream of water.
 
-157
+141
 00:09:52,880 --> 00:09:54,880
 How much do you pay for a meteorite?
 
-158
+142
 00:09:54,880 --> 00:09:57,880
 Not much. We'll find it ourselves.
 
-159
+143
 00:10:04,880 --> 00:10:07,880
 Listen, kid, what house are you from?
 
-160
+144
 00:10:07,880 --> 00:10:09,880
 I'm not from any house.
 
-161
+145
 00:10:21,880 --> 00:10:24,880
 I'm an Asian, baby. Hip-hop, I'm livin' it.
 
-162
+146
 00:10:24,880 --> 00:10:26,880
 This hip-hop, livin' it.
 
-163
+147
 00:10:27,880 --> 00:10:29,880
 I say I'm livin' it.
 
-164
+148
 00:10:29,880 --> 00:10:31,880
 This hip-hop, livin' it.
 
-165
+149
 00:10:31,880 --> 00:10:34,880
 I say I'm livin' it.
 
-166
+150
 00:10:34,880 --> 00:10:36,880
 I say I'm livin' it.
 
-167
+151
 00:10:37,880 --> 00:10:39,880
 Here we go.
 
-168
+152
 00:10:40,880 --> 00:10:42,880
 You know how we go.
 
-169
+153
 00:10:46,880 --> 00:10:48,880
 One time for your mind.
 
-170
+154
 00:10:49,880 --> 00:10:51,880
 We gon' shine.
 
-171
+155
 00:10:52,880 --> 00:10:53,880
 Sit back.
 
-172
+156
 00:10:54,880 --> 00:10:56,880
 Put my life on wax.
 
-173
+157
 00:11:13,880 --> 00:11:14,880
 Oh, shit.
 
-174
+158
 00:11:18,880 --> 00:11:20,880
 Analytics.
 
-175
+159
 00:11:20,880 --> 00:11:22,880
 I shall get your blood refreshed.
 
-176
+160
 00:11:22,880 --> 00:11:23,940
 Ooh!
 
-177
+161
 00:11:24,680 --> 00:11:25,880
 I sould do it!
 
-178
+162
 00:11:25,880 --> 00:11:27,880
 You might see Snorp radio.
 
-179
+163
 00:11:27,880 --> 00:11:29,880
 How about this picture?
 
-180
+164
 00:11:30,880 --> 00:11:32,880
 Oh, come on!
 
-181
+165
 00:11:34,880 --> 00:11:35,880
 What the hell is this?
 
-182
+166
 00:11:36,880 --> 00:11:37,880
 What happened to Snorp.
 
-183
+167
 00:11:37,880 --> 00:11:39,880
 The poor thing is out.
 
-184
+168
 00:11:39,880 --> 00:11:41,880
 Let's go!
 
-185
+169
 00:11:43,880 --> 00:11:44,880
 Come on.
 
-186
+170
 00:11:44,880 --> 00:11:46,880
 The boy wants to go shopping for sugar Doctor.
 
-187
+171
 00:11:46,880 --> 00:11:47,880
 And the old lady, one for her.
 
-188
+172
 00:12:17,880 --> 00:12:19,880
 Stop, boy, stop!
 
-189
+173
 00:12:19,880 --> 00:12:21,880
 Greetings to you, earthling.
 
-190
+174
 00:12:21,880 --> 00:12:23,880
 Put down my barrel, please.
 
-191
+175
 00:12:23,880 --> 00:12:25,880
 Wow.
 
-192
+176
 00:12:25,880 --> 00:12:27,880
 Don't be afraid, baby.
 
-193
+177
 00:12:27,880 --> 00:12:29,880
 I won't touch you.
 
-194
+178
 00:12:29,880 --> 00:12:31,880
 What baby? I'm almost 13.
 
-195
+179
 00:12:31,880 --> 00:12:33,880
 I'm Nikita.
 
-196
+180
 00:12:33,880 --> 00:12:35,880
 And who are you?
 
-197
+181
 00:12:35,880 --> 00:12:37,880
 Hello, Nikita.
 
-198
+182
 00:12:37,880 --> 00:12:39,880
 My full name is...
 
-199
+183
 00:12:41,880 --> 00:12:43,880
 Who?
 
-200
+184
 00:12:47,880 --> 00:12:49,880
 May I call you Jdun?
 
-201
+185
 00:12:49,880 --> 00:12:51,880
 Jdun?
 
-202
+186
 00:12:51,880 --> 00:12:53,880
 Well, okay.
 
-203
+187
 00:12:53,880 --> 00:12:55,880
 What are you doing here?
 
-204
+188
 00:12:55,880 --> 00:12:57,880
 My platoon was hit by a meteorite.
 
-205
+189
 00:12:57,880 --> 00:12:59,880
 I had to make a hard landing.
 
-206
+190
 00:12:59,880 --> 00:13:01,880
 Here? In the swamp?
 
-207
+191
 00:13:01,880 --> 00:13:03,880
 Yes.
 
-208
+192
 00:13:03,880 --> 00:13:05,880
 I'm unlucky.
 
-209
+193
 00:13:05,880 --> 00:13:07,880
 It's so low, I haven't fallen yet.
 
-210
+194
 00:13:07,880 --> 00:13:09,880
 What kind of ship is it?
 
-211
+195
 00:13:09,880 --> 00:13:11,880
 It's my platoon scout.
 
-212
+196
 00:13:11,880 --> 00:13:13,880
 For long flights.
 
-213
+197
 00:13:13,880 --> 00:13:15,880
 Nikita, can you help me to pull out the ship?
 
-214
+198
 00:13:17,880 --> 00:13:19,880
 We'll try.
 
-215
+199
 00:13:19,880 --> 00:13:21,880
 But you need to be well prepared.
 
-216
+200
 00:13:21,880 --> 00:13:23,880
 Huh?
 
-217
+201
 00:13:23,880 --> 00:13:25,880
 What's that?
 
-218
+202
 00:13:29,880 --> 00:13:31,880
 Jdun, you can't stay here.
 
-219
+203
 00:13:31,880 --> 00:13:33,880
 It's getting dark.
 
-220
+204
 00:13:33,880 --> 00:13:35,880
 And they can find you.
 
-221
+205
 00:13:35,880 --> 00:13:37,880
 Huh? No, no, no.
 
-222
+206
 00:13:47,880 --> 00:13:49,880
 No, I'm going to the camp.
 
-223
+207
 00:13:49,880 --> 00:13:51,880
 I'm shit!
 
-224
+208
 00:14:01,880 --> 00:14:03,880
 Hold that.
 
-225
+209
 00:14:07,880 --> 00:14:09,880
 I live there.
 
-226
+210
 00:14:09,880 --> 00:14:11,880
 Alone?
 
-227
+211
 00:14:11,880 --> 00:14:13,880
 Do other pebs live there?
 
-228
+212
 00:14:13,880 --> 00:14:15,880
 Some pebs live here too.
 
-229
+213
 00:14:15,880 --> 00:14:17,880
 Katya, my sister.
 
-230
+214
 00:14:17,880 --> 00:14:19,640
 Mom, dad, grandpa.
 
-231
+215
 00:14:19,720 --> 00:14:23,840
 But he stayed in his workshop when granny died.
 
-232
+216
 00:14:23,920 --> 00:14:25,880
 He doesn't want to be with us.
 
-233
+217
 00:14:25,960 --> 00:14:27,880
 Mom says he has depression.
 
-234
+218
 00:14:27,960 --> 00:14:30,760
 Nikita, is this your brass?
 
-235
+219
 00:14:30,840 --> 00:14:32,800
 Do you use it, too?
 
-236
+220
 00:14:32,880 --> 00:14:35,920
 No, it's not my brass. It's just a toy.
 
-237
+221
 00:14:36,000 --> 00:14:37,440
 A toy?
 
-238
+222
 00:14:37,520 --> 00:14:39,240
 I think you'll like mine.
 
-239
+223
 00:14:39,320 --> 00:14:40,760
 I like toys.
 
-240
+224
 00:14:40,840 --> 00:14:43,000
 I like them very much.
 
-241
+225
 00:14:44,680 --> 00:14:46,280
 But they're not ready yet.
 
-242
+226
 00:14:46,280 --> 00:14:48,400
 It's a rare toy, of course.
 
-243
+227
 00:14:48,480 --> 00:14:52,000
 Nikita, you can't tell anyone about me.
 
-244
+228
 00:14:52,880 --> 00:14:55,120
 I have a secret mission.
 
-245
+229
 00:14:55,200 --> 00:14:57,280
 Wow. What is it?
 
-246
+230
 00:14:57,360 --> 00:15:00,280
 You have a very rare mineral.
 
-247
+231
 00:15:02,200 --> 00:15:06,160
 Our ancient people said it was on Earth.
 
-248
+232
 00:15:06,240 --> 00:15:09,280
 And I came here to find out.
 
-249
+233
 00:15:09,360 --> 00:15:11,480
 I thought you were just sitting and waiting.
 
-250
+234
 00:15:11,560 --> 00:15:14,080
 Not just that. Sometimes we eat and wait.
 
-251
+235
 00:15:14,160 --> 00:15:15,960
 I don't know what we're waiting for.
 
-252
+236
 00:15:15,960 --> 00:15:19,080
 Someday I'll find out what we're waiting for and eat it all.
 
-253
+237
 00:15:19,160 --> 00:15:21,080
 It's about the same on Earth.
 
-254
+238
 00:15:21,160 --> 00:15:23,720
 All right, we'll save your planet.
 
-255
+239
 00:15:23,800 --> 00:15:25,120
 Oh.
 
-256
+240
 00:15:27,000 --> 00:15:29,960
 Look, we do this when we make a deal.
 
-257
+241
 00:15:30,040 --> 00:15:31,840
 And when we say hello.
 
-258
+242
 00:15:32,840 --> 00:15:35,160
 Well, hello, Nikita.
 
-259
+243
 00:15:45,960 --> 00:15:47,640
 Well, hello, Dad.
 
-260
+244
 00:15:47,720 --> 00:15:49,160
 Hello, Katya.
 
-261
+245
 00:15:49,240 --> 00:15:51,520
 Did they send you to a remote today?
 
-262
+246
 00:15:52,800 --> 00:15:54,080
 Well, something like that.
 
-263
+247
 00:16:00,120 --> 00:16:01,280
 Snorp, knock it off.
 
-264
+248
 00:16:01,360 --> 00:16:02,720
 Ouch.
 
-265
+249
 00:16:02,800 --> 00:16:04,280
 Nikita, wait for me.
 
-266
+250
 00:16:04,360 --> 00:16:06,520
 This is my sister, Katya. Don't be afraid.
 
-267
+251
 00:16:06,600 --> 00:16:09,280
 Nikita, did you tell them about me?
 
-268
+252
 00:16:09,360 --> 00:16:11,160
 Hide me, baby, faster, please.
 
-269
+253
 00:16:11,240 --> 00:16:12,360
 Daddy.
 
-270
+254
 00:16:12,440 --> 00:16:14,160
 Baby, can you see me?
 
-271
+255
 00:16:14,240 --> 00:16:14,400
 Yes.
 
-272
+256
 00:16:14,480 --> 00:16:14,520
 Yes.
 
-273
+257
 00:16:14,520 --> 00:16:14,560
 Yes.
 
-274
+258
 00:16:14,560 --> 00:16:14,640
 Yes.
 
-275
+259
 00:16:14,640 --> 00:16:14,680
 Yes.
 
-276
+260
 00:16:14,680 --> 00:16:14,760
 Yes.
 
-277
+261
 00:16:14,760 --> 00:16:14,880
 Yes.
 
-278
+262
 00:16:14,880 --> 00:16:14,920
 Yes.
 
-279
+263
 00:16:14,920 --> 00:16:14,960
 Yes.
 
-280
+264
 00:16:14,960 --> 00:16:15,000
 Yes.
 
-281
+265
 00:16:15,000 --> 00:16:15,040
 Yes.
 
-282
+266
 00:16:15,040 --> 00:16:15,080
 Yes.
 
-283
+267
 00:16:15,080 --> 00:16:15,120
 Yes.
 
-284
+268
 00:16:15,120 --> 00:16:15,160
 Yes.
 
-285
+269
 00:16:15,160 --> 00:16:15,200
 Yes.
 
-286
+270
 00:16:15,200 --> 00:16:15,240
 Yes.
 
-287
+271
 00:16:15,240 --> 00:16:15,280
 Yes.
 
-288
+272
 00:16:15,280 --> 00:16:15,320
 Yes.
 
-289
+273
 00:16:15,320 --> 00:16:15,360
 Yes.
 
-290
+274
 00:16:15,360 --> 00:16:15,560
 Yes.
 
-291
+275
 00:16:15,560 --> 00:16:15,600
 Yes.
 
-292
+276
 00:16:15,600 --> 00:16:15,640
 Yes.
 
-293
+277
 00:16:15,640 --> 00:16:15,680
 Yes.
 
-294
+278
 00:16:15,680 --> 00:16:15,760
 Yes.
 
-295
+279
 00:16:15,760 --> 00:16:15,840
 Yes.
 
-296
+280
 00:16:15,960 --> 00:16:16,000
 Yes.
 
-297
+281
 00:16:16,000 --> 00:16:16,440
 Yes.
 
-298
+282
 00:16:16,520 --> 00:16:16,560
 Yes.
 
-299
+283
 00:16:16,560 --> 00:16:16,640
 Yes.
 
-300
+284
 00:16:16,640 --> 00:16:17,260
 Yes.
 
-301
+285
 00:16:17,320 --> 00:16:17,560
 Yes.
 
-302
+286
 00:16:17,560 --> 00:16:17,680
 Yes.
 
-303
+287
 00:16:17,680 --> 00:16:17,720
 Yes.
 
-304
+288
 00:16:17,720 --> 00:16:17,760
 Yes.
 
-305
+289
 00:16:17,760 --> 00:16:17,800
 Yes.
 
-306
+290
 00:16:17,800 --> 00:16:17,840
 Yes.
 
-307
+291
 00:16:17,840 --> 00:16:17,880
 Yes.
 
-308
+292
 00:16:17,880 --> 00:16:17,920
 Yes.
 
-309
+293
 00:16:17,920 --> 00:16:17,980
 Yes.
 
-310
+294
 00:16:17,980 --> 00:16:18,080
 Yes.
 
-311
+295
 00:16:18,080 --> 00:16:18,120
 Yes.
 
-312
+296
 00:16:18,120 --> 00:16:18,160
 Yes.
 
-313
+297
 00:16:18,220 --> 00:16:18,320
 Yes.
 
-314
+298
 00:16:18,320 --> 00:16:18,360
 Yes.
 
-315
+299
 00:16:18,360 --> 00:16:18,680
 Yes.
 
-316
+300
 00:16:18,680 --> 00:16:18,720
 Yes.
 
-317
+301
 00:16:18,720 --> 00:16:18,760
 Yes.
 
-318
+302
 00:16:18,760 --> 00:16:19,260
 Yes.
 
-319
+303
 00:16:19,960 --> 00:16:25,280
 Yes.
 
-320
+304
 00:16:25,320 --> 00:16:25,400
 Yes.
 
-321
+305
 00:16:25,400 --> 00:16:29,520
 Yes.
 
-322
+306
 00:16:29,700 --> 00:16:35,680
 Yes.
 
-323
+307
 00:16:37,680 --> 00:16:38,480
 Yes.
 
-324
+308
 00:16:41,160 --> 00:16:42,540
 Yes.
 
-325
+309
 00:16:42,540 --> 00:16:43,560
 Yes.
 
-326
+310
 00:16:43,560 --> 00:16:45,060
 Yes.
 
-327
+311
 00:16:45,060 --> 00:16:45,380
 Yes.
 
-328
+312
 00:16:45,380 --> 00:16:45,400
 Yes.
 
-329
+313
 00:16:45,400 --> 00:16:47,400
 My grandfather and I won the lottery.
 
-330
+314
 00:16:47,400 --> 00:16:49,400
 So what did you want? I don't have much time.
 
-331
+315
 00:16:49,400 --> 00:16:50,400
 He doesn't have much time.
 
-332
+316
 00:16:50,400 --> 00:16:52,400
 I wanted to offer you to go to the lake.
 
-333
+317
 00:16:52,400 --> 00:16:54,400
 But they are looking for interns on TV again.
 
-334
+318
 00:16:54,400 --> 00:16:55,400
 Well, everything is as always.
 
-335
+319
 00:16:55,400 --> 00:16:56,400
 We'll come, we'll come up with something.
 
-336
+320
 00:16:56,400 --> 00:16:57,400
 You are the cameraman, I am the star.
 
-337
+321
 00:16:59,400 --> 00:17:00,400
 No!
 
-338
+322
 00:17:02,400 --> 00:17:03,400
 What do you mean, no?
 
-339
+323
 00:17:04,400 --> 00:17:06,400
 Can't you find your own sister for an hour?
 
-340
+324
 00:17:07,400 --> 00:17:08,400
 I'm just...
 
-341
+325
 00:17:10,400 --> 00:17:11,400
 Katya...
 
-342
+326
 00:17:11,400 --> 00:17:12,400
 Fu!
 
-343
+327
 00:17:12,400 --> 00:17:13,400
 You yourself are fu!
 
-344
+328
 00:17:13,400 --> 00:17:14,400
 When did you have time to be so rude?
 
-345
+329
 00:17:14,400 --> 00:17:15,400
 Katya, I...
 
-346
+330
 00:17:17,400 --> 00:17:18,400
 Let's go.
 
-347
+331
 00:17:18,400 --> 00:17:20,400
 Katya, I still have business here and all that.
 
-348
+332
 00:17:20,400 --> 00:17:21,400
 Well, look at him, business man.
 
-349
+333
 00:17:21,400 --> 00:17:24,400
 Just ask me to give your Vika flowers at least once more.
 
-350
+334
 00:17:24,400 --> 00:17:25,400
 Got it?
 
-351
+335
 00:17:25,400 --> 00:17:27,400
 Thank you for your help, brother!
 
-352
+336
 00:17:29,400 --> 00:17:30,400
 I'm waiting.
 
-353
+337
 00:17:30,400 --> 00:17:31,400
 We don't eat like this on Earth.
 
-354
+338
 00:17:31,400 --> 00:17:33,400
 Nikita, I haven't eaten for an hour.
 
-355
+339
 00:17:33,400 --> 00:17:35,400
 So what didn't you tell me?
 
-356
+340
 00:17:35,400 --> 00:17:37,400
 I'll come back now, I'll bring you something to eat.
 
-357
+341
 00:17:37,400 --> 00:17:39,400
 Just sit here and don't touch anything.
 
-358
+342
 00:17:39,400 --> 00:17:40,400
 Okay.
 
-359
+343
 00:17:40,400 --> 00:17:41,400
 It's all fu.
 
-360
+344
 00:17:41,400 --> 00:17:43,400
 And on our planet I eat every hour.
 
-361
+345
 00:17:44,400 --> 00:17:57,480
 It's Adaptive
 
-362
+346
 00:18:10,480 --> 00:18:11,480
 Evgeny, you got it?
 
-363
+347
 00:18:11,480 --> 00:18:12,360
 The only thing I can do is hold you there.
 
-364
+348
 00:18:12,360 --> 00:18:13,400
 I've been waiting for you.
 
-365
+349
 00:18:13,400 --> 00:18:18,400
 Nikita, where have you been all this time?
 
-366
+350
 00:18:18,400 --> 00:18:21,400
 I've been sitting here and there. I've been starving.
 
-367
+351
 00:18:21,400 --> 00:18:25,400
 I haven't eaten this much when I was your age.
 
-368
+352
 00:18:33,400 --> 00:18:38,400
 If you've just arrived today, tell me, where did we get your photos?
 
-369
+353
 00:18:38,400 --> 00:18:43,400
 Here. And one of the artists even made your sculpture. Look.
 
-370
+354
 00:18:43,400 --> 00:18:47,400
 Wow! So he really was here.
 
-371
+355
 00:18:47,400 --> 00:18:51,400
 Nikita, this is our wise Snorp Starun.
 
-372
+356
 00:18:51,400 --> 00:18:55,400
 He told me about the shalalalala mineral on your Earth.
 
-373
+357
 00:18:55,400 --> 00:18:59,400
 By the way, why do you need this mineral?
 
-374
+358
 00:18:59,400 --> 00:19:02,400
 Shalalalala is a rare mineral.
 
-375
+359
 00:19:02,400 --> 00:19:06,400
 Nikita, thanks to its properties, we are long-living people.
 
-376
+360
 00:19:06,400 --> 00:19:07,400
 I see.
 
-377
+361
 00:19:07,400 --> 00:19:08,400
 Thank you.
 
-378
+362
 00:19:08,400 --> 00:19:12,400
 We can eat for a long time and wait for a long time.
 
-379
+363
 00:19:13,400 --> 00:19:15,400
 Wow!
 
-380
+364
 00:19:17,400 --> 00:19:20,400
 Nikita, when are we going to take the ship out?
 
-381
+365
 00:19:20,400 --> 00:19:22,400
 Tonight.
 
-382
+366
 00:19:26,400 --> 00:19:28,400
 Just don't make any noise, okay?
 
-383
+367
 00:19:33,400 --> 00:19:34,400
 Come in, Snorp.
 
-384
+368
 00:19:34,400 --> 00:19:35,400
 Thank you.
 
-385
+369
 00:19:38,400 --> 00:19:42,400
 Nikita, what is this place?
 
-386
+370
 00:19:42,400 --> 00:19:43,400
 Quiet!
 
-387
+371
 00:19:45,400 --> 00:19:47,400
 Is someone waiting for us here?
 
-388
+372
 00:19:47,400 --> 00:19:49,400
 In grandpa's workshop.
 
-389
+373
 00:19:49,400 --> 00:19:51,400
 He used to be an engineer.
 
-390
+374
 00:19:51,400 --> 00:19:52,400
 Golden hands.
 
-391
+375
 00:19:52,400 --> 00:19:56,400
 He even registered several inventions for his institute.
 
-392
+376
 00:19:56,400 --> 00:19:59,400
 But when granny died, he abandoned everything.
 
-393
+377
 00:19:59,400 --> 00:20:03,400
 Oh! Like our wise Snorp Starun.
 
-394
+378
 00:20:03,400 --> 00:20:04,400
 Snorp!
 
-395
+379
 00:20:05,400 --> 00:20:06,400
 Quiet!
 
-396
+380
 00:20:08,400 --> 00:20:15,400
 Guys!
 
-397
+381
 00:20:15,400 --> 00:20:16,400
 Beshenstvo!
 
-398
+382
 00:20:16,400 --> 00:20:20,400
 O, red flag!
 
-399
+383
 00:20:20,400 --> 00:20:21,400
 Red stars!
 
-400
+384
 00:20:21,400 --> 00:20:23,400
 We can't go home!
 
-401
+385
 00:20:23,400 --> 00:20:24,400
 Us?
 
-402
+386
 00:20:24,400 --> 00:20:25,400
 No.
 
-403
+387
 00:20:25,400 --> 00:20:26,400
 Come.
 
-404
+388
 00:20:26,400 --> 00:20:27,400
 Come.
 
-405
+389
 00:20:27,400 --> 00:20:29,400
 We don't have a thing to lose.
 
-406
+390
 00:20:29,400 --> 00:20:30,400
 Where is our thing?
 
-407
+391
 00:20:32,400 --> 00:20:33,400
 Let's go.
 
-408
+392
 00:20:33,400 --> 00:20:34,400
 Yes, let's go.
 
-409
+393
 00:20:34,400 --> 00:20:35,400
 What do we need?
 
-410
+394
 00:20:35,400 --> 00:20:36,400
 The general and rope.
 
-411
+395
 00:20:36,400 --> 00:20:44,400
 It's a rare place.
 
-412
+396
 00:20:52,400 --> 00:20:56,400
 I probably forgot to tell you, but the ship weighs 67 times more than you.
 
-413
+397
 00:20:56,400 --> 00:20:58,400
 Are you sure you can do it?
 
-414
+398
 00:20:58,400 --> 00:21:01,400
 I'm not sure. Help me. I can't do it alone.
 
-415
+399
 00:21:01,400 --> 00:21:04,400
 Okay. Although I usually wait.
 
-416
+400
 00:21:06,400 --> 00:21:14,400
 Nikita, I think we need another hundred earthlings.
 
-417
+401
 00:21:14,400 --> 00:21:17,400
 Someone's coming! Look!
 
-418
+402
 00:21:17,400 --> 00:21:18,400
 Kurokaki!
 
-419
+403
 00:21:18,400 --> 00:21:19,400
 Hurry up and hide!
 
-420
+404
 00:21:19,400 --> 00:21:20,400
 Where?
 
-421
+405
 00:21:20,400 --> 00:21:21,400
 Over here!
 
-422
+406
 00:21:21,400 --> 00:21:22,400
 Okay.
 
-423
+407
 00:21:31,400 --> 00:21:32,400
 Sit here.
 
-424
+408
 00:21:36,400 --> 00:21:37,400
 I'll go.
 
-425
+409
 00:21:41,400 --> 00:21:44,400
 Kostya, look. What's there?
 
-426
+410
 00:21:44,400 --> 00:21:45,400
 Where?
 
-427
+411
 00:21:47,400 --> 00:21:49,400
 Look.
 
-428
+412
 00:22:01,400 --> 00:22:02,400
 Nikita!
 
-429
+413
 00:22:04,400 --> 00:22:05,400
 Grandpa?
 
-430
+414
 00:22:05,400 --> 00:22:06,400
 Nikita!
 
-431
+415
 00:22:06,400 --> 00:22:11,400
 Nikita! Oh, my God! What are you doing?
 
-432
+416
 00:22:11,400 --> 00:22:13,400
 Where did you run off to, huh?
 
-433
+417
 00:22:13,400 --> 00:22:16,400
 It's some kind of garbage.
 
-434
+418
 00:22:16,400 --> 00:22:19,400
 Grandpa, we're pulling out an airstrike here.
 
-435
+419
 00:22:19,400 --> 00:22:20,400
 An airstrike?
 
-436
+420
 00:22:20,400 --> 00:22:22,400
 Yes, with him.
 
-437
+421
 00:22:22,400 --> 00:22:26,400
 Can you imagine if... Mom...
 
-438
+422
 00:22:26,400 --> 00:22:31,400
 Greetings to you, wise earthly old man.
 
-439
+423
 00:22:31,400 --> 00:22:36,400
 I'm not that old.
 
-440
+424
 00:22:36,400 --> 00:22:40,400
 All right, then, wise young man.
 
-441
+425
 00:22:40,400 --> 00:22:44,400
 Georgiy Evgenievich, can I just... Goga?
 
-442
+426
 00:22:44,400 --> 00:22:47,400
 Hello, just Goga. I'm...
 
-443
+427
 00:22:49,400 --> 00:22:51,400
 Can I just wait?
 
-444
+428
 00:22:51,400 --> 00:22:53,400
 Can I just...
 
-445
+429
 00:22:55,400 --> 00:22:58,400
 I've always known that we're not alone in the universe.
 
-446
+430
 00:22:58,400 --> 00:23:00,400
 No, you're not alone in the universe.
 
-447
+431
 00:23:00,400 --> 00:23:01,400
 What?
 
-448
+432
 00:23:02,400 --> 00:23:05,400
 What should we do with all this now?
 
-449
+433
 00:23:05,400 --> 00:23:08,400
 Arkady Semyonovich, I'm sorry it's late.
 
-450
+434
 00:23:08,400 --> 00:23:11,400
 We've been looking for you for a day, but there's nothing.
 
-451
+435
 00:23:11,400 --> 00:23:14,400
 Maybe everything really burned down in the atmosphere.
 
-452
+436
 00:23:14,400 --> 00:23:16,400
 Well, you know, like...
 
-453
+437
 00:23:17,400 --> 00:23:18,400
 Perseids.
 
-454
+438
 00:23:18,400 --> 00:23:20,400
 You hear me, Zalkovsky?
 
-455
+439
 00:23:20,400 --> 00:23:22,400
 You're going to send your Perseids to the planetarium.
 
-456
+440
 00:23:22,400 --> 00:23:25,400
 I don't care how you find this alien shit.
 
-457
+441
 00:23:25,400 --> 00:23:29,400
 If someone gets ahead of us, I'll send you to the moon myself.
 
-458
+442
 00:23:29,400 --> 00:23:30,400
 No connection.
 
-459
+443
 00:23:30,400 --> 00:23:31,400
 No connection.
 
-460
+444
 00:23:31,400 --> 00:23:32,400
 Well?
 
-461
+445
 00:23:34,400 --> 00:23:35,400
 We need to look for him.
 
-462
+446
 00:23:35,400 --> 00:23:36,400
 Let's go.
 
-463
+447
 00:23:43,400 --> 00:23:46,400
 Step back to a safe distance.
 
-464
+448
 00:23:46,400 --> 00:23:48,400
 Commencing evacuation.
 
-465
+449
 00:23:48,400 --> 00:23:50,400
 Optimists.
 
-466
+450
 00:23:50,400 --> 00:23:53,400
 They wanted to pull us out with their hands.
 
-467
+451
 00:23:53,400 --> 00:23:55,400
 Step back.
 
-468
+452
 00:23:55,400 --> 00:23:56,400
 Step back.
 
-469
+453
 00:23:56,400 --> 00:23:57,400
 Step back.
 
-470
+454
 00:23:57,400 --> 00:23:58,400
 Step back.
 
-471
+455
 00:23:59,400 --> 00:24:01,400
 Step back.
 
-472
+456
 00:24:01,400 --> 00:24:02,400
 Step back.
 
-473
+457
 00:24:05,400 --> 00:24:09,400
 Step back.
 
-474
+458
 00:24:14,400 --> 00:24:15,400
 Now.
 
-475
+459
 00:24:15,400 --> 00:24:16,400
 Step back.
 
-476
+460
 00:24:17,400 --> 00:24:18,400
 Step back.
 
-477
+461
 00:24:18,400 --> 00:24:19,400
 Step back.
 
-478
+462
 00:24:19,400 --> 00:24:20,400
 Step...
 
-479
+463
 00:24:21,400 --> 00:24:23,400
 Step down to earth like you used to be.
 
-480
+464
 00:24:24,400 --> 00:24:26,400
 You think you can trick me into doing it?
 
-481
+465
 00:24:26,400 --> 00:24:28,400
 And you?
 
-482
+466
 00:24:28,400 --> 00:24:30,400
 But mom, do you know?
 
-483
+467
 00:24:30,400 --> 00:24:32,400
 Yes, mom, do you know?
 
-484
+468
 00:24:32,400 --> 00:24:34,400
 Okay.
 
-485
+469
 00:24:34,400 --> 00:24:36,400
 We didn't see each other.
 
-486
+470
 00:24:38,400 --> 00:24:40,400
 Here. We were on the verge of failure.
 
-487
+471
 00:24:40,400 --> 00:24:42,400
 And ran away.
 
-488
+472
 00:24:42,400 --> 00:24:44,400
 Thanks to my stubbornness.
 
-489
+473
 00:24:44,400 --> 00:24:46,400
 And mine.
 
-490
+474
 00:24:46,400 --> 00:24:48,400
 I agree. Come on, take it.
 
-491
+475
 00:24:48,400 --> 00:24:50,400
 Come on, come on, a little bit.
 
-492
+476
 00:24:50,400 --> 00:24:52,400
 You're a bastard.
 
-493
+477
 00:24:54,400 --> 00:24:56,400
 You're a bastard.
 
-494
+478
 00:24:56,400 --> 00:24:58,400
 The energy circuit of the ship is damaged.
 
-495
+479
 00:25:00,400 --> 00:25:02,400
 Now just give it to the scrap metal.
 
-496
+480
 00:25:02,400 --> 00:25:04,400
 Now just give it to the scrap metal.
 
-497
+481
 00:25:04,400 --> 00:25:06,400
 Goga, don't give it to the scrap metal.
 
-498
+482
 00:25:06,400 --> 00:25:08,400
 It must be repaired to return to the family.
 
-499
+483
 00:25:08,400 --> 00:25:10,400
 Goga, don't give it to the scrap metal.
 
-500
+484
 00:25:10,400 --> 00:25:12,400
 I'm waiting. What's this button?
 
-501
+485
 00:25:12,400 --> 00:25:14,400
 You can't.
 
-502
+486
 00:25:14,400 --> 00:25:16,400
 It's an intergalactic diminution.
 
-503
+487
 00:25:16,400 --> 00:25:18,400
 It's very dangerous for the Earth.
 
-504
+488
 00:25:18,400 --> 00:25:20,400
 Look!
 
-505
+489
 00:25:20,400 --> 00:25:22,400
 Look at this hole!
 
-506
+490
 00:25:23,400 --> 00:25:25,400
 Where is the hole?
 
-507
+491
 00:25:26,400 --> 00:25:27,400
 Be careful.
 
-508
+492
 00:25:28,400 --> 00:25:32,400
 It's not a hole. It's a technical hole.
 
-509
+493
 00:25:33,400 --> 00:25:34,400
 What is it?
 
-510
+494
 00:25:35,400 --> 00:25:39,400
 It's an anti-gravity connector. It's launching my platoon.
 
-511
+495
 00:25:40,400 --> 00:25:46,400
 Oh, no! Kurakaka! The anti-gravity is gone! My platoon can't fly without it!
 
-512
+496
 00:25:46,400 --> 00:25:48,400
 Stop panicking.
 
-513
+497
 00:25:49,400 --> 00:25:52,400
 So, Nikita is looking for a detail.
 
-514
+498
 00:25:53,400 --> 00:25:57,400
 I'll replace the wiring. We'll make holes and that's it.
 
-515
+499
 00:25:59,400 --> 00:26:01,400
 Are you sure this platoon can handle it?
 
-516
+500
 00:26:02,400 --> 00:26:04,400
 Grandpa, are we sure we can do it?
 
-517
+501
 00:26:05,400 --> 00:26:06,400
 What?
 
-518
+502
 00:26:12,400 --> 00:26:15,400
 It's good that we didn't let our children go to the scrapyard.
 
-519
+503
 00:26:17,400 --> 00:26:21,400
 Well, did you want a wonder of technology?
 
-520
+504
 00:26:26,400 --> 00:26:27,400
 You'll bite it.
 
-521
+505
 00:26:34,400 --> 00:26:38,400
 Call the city committee. And call the mayor, too. We'll take part.
 
-522
+506
 00:26:39,400 --> 00:26:42,400
 We'll show them a flying taxi.
 
-523
+507
 00:26:47,400 --> 00:26:49,400
 Sveta, I still need to fill in the papers.
 
-524
+508
 00:26:49,400 --> 00:26:50,400
 Let's go, let's go.
 
-525
+509
 00:26:50,400 --> 00:26:56,400
 Dad! Dad! Dad! Dad!
 
-526
+510
 00:26:57,400 --> 00:26:58,400
 Sveta.
 
-527
+511
 00:26:58,400 --> 00:26:59,400
 Congratulations!
 
-528
+512
 00:27:00,400 --> 00:27:03,400
 What for? The cake must be expensive.
 
-529
+513
 00:27:03,400 --> 00:27:06,400
 Of course, it's expensive. It's for the financial director.
 
-530
+514
 00:27:06,400 --> 00:27:07,400
 You're the best!
 
-531
+515
 00:27:09,400 --> 00:27:13,400
 Tell us, please, how Potap praised your presentation.
 
-532
+516
 00:27:13,400 --> 00:27:14,400
 What's there to tell?
 
-533
+517
 00:27:14,400 --> 00:27:15,400
 Go tell Semyonov.
 
-534
+518
 00:27:15,400 --> 00:27:16,400
 Go tell Semyonov.
 
-535
+519
 00:27:17,400 --> 00:27:18,400
 For the promotion.
 
-536
+520
 00:27:19,400 --> 00:27:21,400
 And your presentation, he says.
 
-537
+521
 00:27:23,400 --> 00:27:24,400
 On the wall. There, hang it.
 
-538
+522
 00:27:25,400 --> 00:27:27,400
 I didn't hesitate for a second.
 
-539
+523
 00:27:27,400 --> 00:27:28,400
 Really?
 
-540
+524
 00:27:28,400 --> 00:27:29,400
 Not a second.
 
-541
+525
 00:27:29,400 --> 00:27:31,400
 That's why he ordered us a new kitchen.
 
-542
+526
 00:27:33,400 --> 00:27:38,400
 Well, I understand, of course, it's not the cheapest project, but it's no worse than Lytyagin's.
 
-543
+527
 00:27:38,400 --> 00:27:41,400
 Have you seen how huge their built-in cabinets are?
 
-544
+528
 00:27:41,400 --> 00:27:44,400
 Listen, Populya, since you're buying a new kitchen for Mom, can I have a new phone?
 
-545
+529
 00:27:44,400 --> 00:27:45,400
 And I need a new bike.
 
-546
+530
 00:27:46,400 --> 00:27:49,400
 But if I'm going to be a journalist, I need to shoot quality videos.
 
-547
+531
 00:27:49,400 --> 00:27:51,400
 What journalist? We've already talked about it.
 
-548
+532
 00:27:51,400 --> 00:27:54,400
 You need to be an economist.
 
-549
+533
 00:27:54,400 --> 00:27:58,400
 You'll be a manager like your dad, and you'll have a good salary.
 
-550
+534
 00:27:58,400 --> 00:27:59,400
 Mom.
 
-551
+535
 00:28:00,400 --> 00:28:01,400
 Make a salary after her.
 
-552
+536
 00:28:03,400 --> 00:28:05,400
 The last one. Especially when you don't work yourself.
 
-553
+537
 00:28:05,400 --> 00:28:06,400
 You'll thank your mother later.
 
-554
+538
 00:28:06,400 --> 00:28:09,400
 Can I say thank you now, and I'll do whatever I want to do?
 
-555
+539
 00:28:09,400 --> 00:28:12,400
 All right. I'll go to bed.
 
-556
+540
 00:28:12,400 --> 00:28:13,400
 Thank you for your help.
 
-557
+541
 00:28:13,400 --> 00:28:15,400
 Thank you for the cake.
 
-558
+542
 00:28:15,400 --> 00:28:18,400
 Misha, with a promotion.
 
-559
+543
 00:28:18,400 --> 00:28:20,400
 And with a new kitchen.
 
-560
+544
 00:28:20,400 --> 00:28:21,400
 Dad, can you sit down for a bit?
 
-561
+545
 00:28:21,400 --> 00:28:23,400
 No, no, no. I want to sleep.
 
-562
+546
 00:28:26,400 --> 00:28:29,400
 Don't be upset. Look, we'll get more.
 
-563
+547
 00:28:31,400 --> 00:28:34,400
 Everyone doesn't like it. Let's do it again.
 
-564
+548
 00:28:34,400 --> 00:28:35,400
 Okay.
 
-565
+549
 00:28:38,400 --> 00:28:41,400
 Hello, everyone. It's me, young reporter Yekaterina Semyonova.
 
-566
+550
 00:28:41,400 --> 00:28:44,400
 This is my vlog from the solar system in Dursun.
 
-567
+551
 00:28:44,400 --> 00:28:46,400
 Today the sun pleases me with its warmth,
 
-568
+552
 00:28:46,400 --> 00:28:48,400
 and so I decided to sunbathe a little.
 
-569
+553
 00:28:48,400 --> 00:28:52,400
 Well, of course, with sunscreens from tanning.
 
-570
+554
 00:28:59,400 --> 00:29:01,400
 This is a direct connection.
 
-571
+555
 00:29:02,400 --> 00:29:04,400
 I've been thought of something.
 
-572
+556
 00:29:06,400 --> 00:29:08,400
 I'll keep you informed of the events.
 
-573
+557
 00:29:11,400 --> 00:29:13,400
 I'll be back in a minute.
 
-574
+558
 00:29:29,400 --> 00:29:32,400
 But if there are any vacancies,
 
-575
+559
 00:29:32,400 --> 00:29:34,400
 please keep me in mind.
 
-576
+560
 00:29:34,400 --> 00:29:36,400
 I'm in touch 24 hours a day.
 
-577
+561
 00:29:36,400 --> 00:29:38,400
 I have many years of experience.
 
-578
+562
 00:29:38,400 --> 00:29:40,400
 Higher economic education.
 
-579
+563
 00:29:40,400 --> 00:29:41,400
 Two.
 
-580
+564
 00:29:41,400 --> 00:29:43,400
 So I can run start-ups,
 
-581
+565
 00:29:43,400 --> 00:29:45,400
 a well-developed business.
 
-582
+566
 00:29:46,400 --> 00:29:48,400
 No vacancies, right?
 
-583
+567
 00:29:50,400 --> 00:29:52,400
 I got it. Thank you.
 
-584
+568
 00:29:52,400 --> 00:29:53,400
 Goodbye.
 
-585
+569
 00:29:59,400 --> 00:30:01,400
 Seryozha, hi.
 
-586
+570
 00:30:05,400 --> 00:30:06,400
 Here, take it.
 
-587
+571
 00:30:06,400 --> 00:30:07,400
 You gave it to me.
 
-588
+572
 00:30:08,400 --> 00:30:09,400
 I'm glad to see you, Yevgenievich.
 
-589
+573
 00:30:10,400 --> 00:30:12,400
 We haven't seen each other for a hundred years.
 
-590
+574
 00:30:13,400 --> 00:30:15,400
 Are you going to make something out of grandpa?
 
-591
+575
 00:30:15,400 --> 00:30:16,400
 No, we...
 
-592
+576
 00:30:16,400 --> 00:30:17,400
 Yes.
 
-593
+577
 00:30:17,400 --> 00:30:19,400
 We're going to make an antenna.
 
-594
+578
 00:30:19,400 --> 00:30:21,400
 An antenna for further communication.
 
-595
+579
 00:30:40,400 --> 00:30:41,400
 Not a thing.
 
-596
+580
 00:30:41,400 --> 00:30:42,400
 Hello, Yevgenievich.
 
-597
+581
 00:30:42,400 --> 00:30:43,400
 I'm going to take a picture of you.
 
-598
+582
 00:30:43,400 --> 00:30:44,400
 I'll take you to the restaurant.
 
-599
+583
 00:30:44,400 --> 00:30:45,400
 I'll take you to the restaurant.
 
-600
+584
 00:30:45,400 --> 00:30:46,400
 You're a good man, Yevgenievich.
 
-601
+585
 00:30:46,400 --> 00:30:47,400
 Good.
 
-602
+586
 00:30:47,400 --> 00:30:48,400
 I'll be back.
 
-603
+587
 00:30:48,400 --> 00:30:49,400
 I'll be back in a minute.
 
-604
+588
 00:30:49,400 --> 00:30:50,400
 Bye.
 
-605
+589
 00:30:50,400 --> 00:30:51,400
 See you.
 
-606
+590
 00:30:51,400 --> 00:30:52,400
 Bye.
 
-607
+591
 00:30:52,400 --> 00:30:53,400
 Bye.
 
-608
+592
 00:30:54,400 --> 00:30:55,400
 Bye.
 
-609
+593
 00:30:55,400 --> 00:30:56,400
 Bye-bye.
 
-610
+594
 00:30:56,400 --> 00:30:57,400
 Bye.
 
-611
+595
 00:30:57,400 --> 00:30:58,400
 See you, Yevgenievich.
 
-612
+596
 00:30:58,400 --> 00:30:59,400
 Bye.
 
-613
+597
 00:30:59,400 --> 00:31:00,400
 Bye.
 
-614
+598
 00:31:00,400 --> 00:31:01,400
 Bye.
 
-615
+599
 00:31:01,400 --> 00:31:02,400
 Bye.
 
-616
+600
 00:31:02,400 --> 00:31:03,400
 See you.
 
-617
+601
 00:31:03,400 --> 00:31:04,400
 Bye.
 
-618
+602
 00:31:04,400 --> 00:31:05,400
 Bye.
 
-619
+603
 00:31:05,400 --> 00:31:06,400
 Bye.
 
-620
+604
 00:31:06,400 --> 00:31:07,400
 Bye.
 
-621
+605
 00:31:07,400 --> 00:31:08,400
 Bye.
 
-622
+606
 00:31:08,400 --> 00:31:09,400
 Bye.
 
-623
+607
 00:31:10,400 --> 00:31:14,400
 Let's take a look over here.
 
-624
+608
 00:31:18,400 --> 00:31:22,400
 This is what I was thinking about.
 
-625
+609
 00:31:22,400 --> 00:31:24,400
 How much is it?
 
-626
+610
 00:31:24,400 --> 00:31:26,400
 Hide it, hide it.
 
-627
+611
 00:31:34,400 --> 00:31:37,400
 There's a golden vein here.
 
-628
+612
 00:31:40,400 --> 00:31:42,400
 Here.
 
-629
+613
 00:32:06,400 --> 00:32:08,400
 Thank you.
 
-630
+614
 00:32:08,400 --> 00:32:09,400
 Hey!
 
-631
+615
 00:32:09,400 --> 00:32:10,400
 Dad?
 
-632
+616
 00:32:11,400 --> 00:32:13,400
 Dad, look, there's a dad.
 
-633
+617
 00:32:13,400 --> 00:32:15,400
 What dad?
 
-634
+618
 00:32:17,400 --> 00:32:19,400
 What do you want?
 
-635
+619
 00:32:19,400 --> 00:32:22,400
 I wanted to give you some ice cream.
 
-636
+620
 00:32:22,400 --> 00:32:24,400
 I don't take lactose.
 
-637
+621
 00:32:24,400 --> 00:32:26,400
 I'm sorry.
 
-638
+622
 00:32:26,400 --> 00:32:27,400
 Dad!
 
-639
+623
 00:32:27,400 --> 00:32:29,400
 What? Are you not working again?
 
-640
+624
 00:32:32,400 --> 00:32:34,400
 The lunch, son.
 
-641
+625
 00:32:34,400 --> 00:32:37,400
 I came to take a walk, to get some fresh air.
 
-642
+626
 00:32:37,400 --> 00:32:39,400
 Fresh air?
 
-643
+627
 00:32:39,400 --> 00:32:44,400
 Dad got overheated. He bought two whole ice creams.
 
-644
+628
 00:32:45,400 --> 00:32:47,400
 Let's go, Nikitos.
 
-645
+629
 00:32:47,400 --> 00:32:49,400
 Georgievich.
 
-646
+630
 00:32:57,400 --> 00:33:00,400
 Nikitos, we need to be extremely careful.
 
-647
+631
 00:33:00,400 --> 00:33:02,400
 Yes. Dad almost burned us.
 
-648
+632
 00:33:02,400 --> 00:33:04,400
 What am I talking about?
 
-649
+633
 00:33:04,400 --> 00:33:06,400
 That no one should know about it.
 
-650
+634
 00:33:06,400 --> 00:33:07,400
 Hi.
 
-651
+635
 00:33:07,400 --> 00:33:09,400
 You're back, quiet people.
 
-652
+636
 00:33:09,400 --> 00:33:12,400
 I thought I wouldn't guess that something was going on here.
 
-653
+637
 00:33:12,400 --> 00:33:16,400
 I'm sorry, Nikita. I was bitten again.
 
-654
+638
 00:33:16,400 --> 00:33:19,400
 Why didn't you tell me about Snorp?
 
-655
+639
 00:33:19,400 --> 00:33:20,400
 He's so cool.
 
-656
+640
 00:33:20,400 --> 00:33:23,400
 By the way, you didn't know that he likes lemons.
 
-657
+641
 00:33:24,400 --> 00:33:27,400
 But we left you here for only two hours.
 
-658
+642
 00:33:27,400 --> 00:33:31,400
 You can't be so reliable and tell everyone everything.
 
-659
+643
 00:33:31,400 --> 00:33:34,400
 Katya, I beg you, don't tell anyone about Snorp.
 
-660
+644
 00:33:34,400 --> 00:33:36,400
 Some people were looking for him.
 
-661
+645
 00:33:36,400 --> 00:33:38,400
 What's wrong with such cars?
 
-662
+646
 00:33:38,400 --> 00:33:39,400
 Relax, little one.
 
-663
+647
 00:33:39,400 --> 00:33:40,400
 Katya.
 
-664
+648
 00:33:40,400 --> 00:33:42,400
 What Katya? I've been here for 15 years.
 
-665
+649
 00:33:42,400 --> 00:33:44,400
 Did you really not tell anyone?
 
-666
+650
 00:33:44,400 --> 00:33:46,400
 I'm silent like a dead Cambala.
 
-667
+651
 00:33:46,400 --> 00:33:48,400
 Cambala. Katya is cool.
 
-668
+652
 00:33:48,400 --> 00:33:50,400
 She jokes and likes to eat like me.
 
-669
+653
 00:33:50,400 --> 00:33:52,400
 Okay, don't get distracted.
 
-670
+654
 00:33:52,400 --> 00:33:56,400
 He said that he urgently needs some detail.
 
-671
+655
 00:33:56,400 --> 00:33:58,400
 He needs a detail.
 
-672
+656
 00:33:58,400 --> 00:34:00,400
 Now help him.
 
-673
+657
 00:34:06,400 --> 00:34:07,400
 Okay.
 
-674
+658
 00:34:23,400 --> 00:34:25,400
 That's it.
 
-675
+659
 00:34:28,400 --> 00:34:29,400
 Start please.
 
-676
+660
 00:34:30,400 --> 00:34:31,400
 One moment.
 
-677
+661
 00:34:33,400 --> 00:34:34,400
 Extra.
 
-678
+662
 00:34:34,400 --> 00:34:35,400
 What?
 
-679
+663
 00:34:35,400 --> 00:34:37,400
 No, it's not too much.
 
-680
+664
 00:34:45,400 --> 00:34:47,400
 Good. A screwdriver.
 
-681
+665
 00:34:47,400 --> 00:34:49,400
 A screwdriver.
 
-682
+666
 00:34:49,400 --> 00:34:51,400
 Good job. You remembered.
 
-683
+667
 00:34:52,400 --> 00:34:54,400
 Cool.
 
-684
+668
 00:34:55,400 --> 00:34:57,400
 A sidecutter.
 
-685
+669
 00:34:57,400 --> 00:34:59,400
 Yes, a sidecutter.
 
-686
+670
 00:34:59,400 --> 00:35:01,400
 Oh, I remembered.
 
-687
+671
 00:35:01,400 --> 00:35:03,400
 You remembered.
 
-688
+672
 00:35:05,400 --> 00:35:07,400
 There's a sidecutter.
 
-689
+673
 00:35:07,400 --> 00:35:09,400
 A sidecutter.
 
-690
+674
 00:35:09,400 --> 00:35:11,400
 No, no, it's not a sidecutter.
 
-691
+675
 00:35:11,400 --> 00:35:13,400
 A sidecutter.
 
-692
+676
 00:35:13,400 --> 00:35:15,400
 It's an air blower.
 
-693
+677
 00:35:22,400 --> 00:35:24,400
 I'm sorry.
 
-694
+678
 00:35:24,400 --> 00:35:26,400
 It's an air blower.
 
-695
+679
 00:35:26,400 --> 00:35:28,400
 It blows.
 
-696
+680
 00:35:28,400 --> 00:35:30,400
 And this...
 
-697
+681
 00:35:30,400 --> 00:35:32,400
 An air blower.
 
-698
+682
 00:35:35,400 --> 00:35:37,400
 This is an air blower.
 
-699
+683
 00:35:37,400 --> 00:35:39,400
 It's an air blower.
 
-700
+684
 00:35:39,400 --> 00:35:41,400
 Stop.
 
-701
+685
 00:35:41,400 --> 00:35:43,400
 Don't move east!
 
-702
+686
 00:35:43,400 --> 00:35:45,400
 Stop there!
 
-703
+687
 00:35:45,400 --> 00:35:47,400
 Stop there!
 
-704
+688
 00:35:47,400 --> 00:35:49,400
 Don't move!
 
-705
+689
 00:35:52,400 --> 00:35:53,400
 Stop!
 
-706
+690
 00:35:55,400 --> 00:35:56,400
 Don't!
 
-707
+691
 00:35:56,400 --> 00:35:58,400
 Don't move east!
 
-708
+692
 00:35:58,400 --> 00:35:59,400
 Don't move!
 
-709
+693
 00:35:59,400 --> 00:36:00,400
 Don't move!
 
-710
+694
 00:36:30,400 --> 00:36:32,400
 Where are they now?
 
-711
+695
 00:37:00,400 --> 00:37:02,400
 Hello, Georgiy Evgenievich.
 
-712
+696
 00:37:02,400 --> 00:37:04,400
 Hello.
 
-713
+697
 00:37:04,400 --> 00:37:06,400
 There's a case here.
 
-714
+698
 00:37:08,400 --> 00:37:10,400
 I wanted to ask you not to tell Sveta
 
-715
+699
 00:37:10,400 --> 00:37:12,400
 that you saw me in the city one day.
 
-716
+700
 00:37:14,400 --> 00:37:16,400
 Or else she might have...
 
-717
+701
 00:37:18,400 --> 00:37:20,400
 Yes?
 
-718
+702
 00:37:20,400 --> 00:37:22,400
 And you mean... nothing?
 
-719
+703
 00:37:24,400 --> 00:37:26,400
 No, nothing.
 
-720
+704
 00:37:26,400 --> 00:37:28,400
 I mean...
 
-721
+705
 00:37:28,400 --> 00:37:30,400
 I don't know.
 
-722
+706
 00:37:30,400 --> 00:37:32,400
 Me?
 
-723
+707
 00:37:32,400 --> 00:37:34,400
 I'm fine, Georgiy Evgenievich.
 
-724
+708
 00:37:34,400 --> 00:37:36,400
 I...
 
-725
+709
 00:37:38,400 --> 00:37:40,400
 I wanted to ask Sveta to come here.
 
-726
+710
 00:37:44,400 --> 00:37:46,400
 Is that Nikita?
 
-727
+711
 00:37:46,400 --> 00:37:48,400
 He found an antigravitin...
 
-728
+712
 00:37:52,400 --> 00:37:54,400
 That's it. We're here.
 
-729
+713
 00:37:58,400 --> 00:38:00,400
 What?
 
-730
+714
 00:38:00,400 --> 00:38:02,400
 What is it?
 
-731
+715
 00:38:12,400 --> 00:38:14,400
 Dad, does he like you?
 
-732
+716
 00:38:14,400 --> 00:38:16,400
 Yes.
 
-733
+717
 00:38:16,400 --> 00:38:18,400
 Can someone explain to me what's going on here?
 
-734
+718
 00:38:18,400 --> 00:38:20,400
 Is he really from space?
 
-735
+719
 00:38:20,400 --> 00:38:22,400
 Be quiet, dad. Or mom will hear us.
 
-736
+720
 00:38:22,400 --> 00:38:24,400
 Yes, dad, be quiet.
 
-737
+721
 00:38:24,400 --> 00:38:26,400
 Mom will hear us and call the police.
 
-738
+722
 00:38:26,400 --> 00:38:28,400
 There's a problem with the registration.
 
-739
+723
 00:38:28,400 --> 00:38:30,400
 What? Yes, dad. We have aliens.
 
-740
+724
 00:38:30,400 --> 00:38:32,400
 What's going on?
 
-741
+725
 00:38:32,400 --> 00:38:34,400
 Listen...
 
-742
+726
 00:38:34,400 --> 00:38:36,400
 We helped Mom fix the stardust.
 
-743
+727
 00:38:36,400 --> 00:38:38,400
 Yes, dad.
 
-744
+728
 00:38:40,400 --> 00:38:42,400
 Dad, look what a cool stardust.
 
-745
+729
 00:38:42,400 --> 00:38:44,400
 What?
 
-746
+730
 00:38:46,400 --> 00:38:48,400
 Shh!
 
-747
+731
 00:38:48,400 --> 00:38:50,400
 Are you there?
 
-748
+732
 00:38:50,400 --> 00:38:52,400
 Guys!
 
-749
+733
 00:38:52,400 --> 00:38:54,400
 That's it.
 
-750
+734
 00:38:54,400 --> 00:38:56,400
 Dad! No! No!
 
-751
+735
 00:38:56,400 --> 00:38:58,400
 What's going on?
 
-752
+736
 00:38:58,400 --> 00:39:00,400
 Let's go.
 
-753
+737
 00:39:04,400 --> 00:39:06,400
 Wow!
 
-754
+738
 00:39:06,400 --> 00:39:08,400
 Look, Sveta.
 
-755
+739
 00:39:08,400 --> 00:39:10,400
 What are you doing?
 
-756
+740
 00:39:10,400 --> 00:39:12,400
 Look what we have here.
 
-757
+741
 00:39:12,400 --> 00:39:14,400
 Son, step aside.
 
-758
+742
 00:39:14,400 --> 00:39:16,400
 Dad, please.
 
-759
+743
 00:39:24,400 --> 00:39:26,400
 Your stardust.
 
-760
+744
 00:39:26,400 --> 00:39:28,400
 It's an alien.
 
-761
+745
 00:39:28,400 --> 00:39:30,400
 Yes.
 
-762
+746
 00:39:30,400 --> 00:39:32,400
 Nikita got it for the new school year.
 
-763
+747
 00:39:32,400 --> 00:39:34,400
 So to speak, from scrap metal and all that garbage.
 
-764
+748
 00:39:34,400 --> 00:39:36,400
 In the style of steampunk, right?
 
-765
+749
 00:39:36,400 --> 00:39:38,400
 Yes. In what style?
 
-766
+750
 00:39:38,400 --> 00:39:40,400
 Steampunk.
 
-767
+751
 00:39:40,400 --> 00:39:42,400
 Like postmodernism, but only steampunk, mom.
 
-768
+752
 00:39:42,400 --> 00:39:44,400
 There are sculptures of all sorts of junk.
 
-769
+753
 00:39:44,400 --> 00:39:46,400
 And we help.
 
-770
+754
 00:39:46,400 --> 00:39:48,400
 And you help Nikita.
 
-771
+755
 00:39:48,400 --> 00:39:50,400
 Yes. My own brother and grandfather help after all.
 
-772
+756
 00:39:50,400 --> 00:39:52,400
 Of course, steampunk. It's all ours.
 
-773
+757
 00:39:52,400 --> 00:39:54,400
 Can I look at it?
 
-774
+758
 00:39:54,400 --> 00:39:56,400
 No, not yet.
 
-775
+759
 00:39:56,400 --> 00:39:58,400
 There are wires there, mom. No need.
 
-776
+760
 00:39:58,400 --> 00:40:00,400
 Is there a cabin there?
 
-777
+761
 00:40:00,400 --> 00:40:02,400
 There will be a cabin and devices.
 
-778
+762
 00:40:02,400 --> 00:40:04,400
 It's just that there's nothing to show now.
 
-779
+763
 00:40:04,400 --> 00:40:06,400
 Isn't it dangerous?
 
-780
+764
 00:40:06,400 --> 00:40:08,400
 It's dangerous.
 
-781
+765
 00:40:08,400 --> 00:40:10,400
 Very.
 
-782
+766
 00:40:10,400 --> 00:40:12,400
 Listen, mom, you need to help with something.
 
-783
+767
 00:40:12,400 --> 00:40:14,400
 Let me help.
 
-784
+768
 00:40:14,400 --> 00:40:16,400
 I can peel potatoes, cut lettuce and wash dishes.
 
-785
+769
 00:40:16,400 --> 00:40:18,400
 Come on.
 
-786
+770
 00:40:18,400 --> 00:40:20,400
 Come on.
 
-787
+771
 00:40:20,400 --> 00:40:22,400
 Then you go and we'll catch up with you.
 
-788
+772
 00:40:22,400 --> 00:40:24,400
 Come on, catch up.
 
-789
+773
 00:40:24,400 --> 00:40:26,400
 Come on.
 
-790
+774
 00:40:30,400 --> 00:40:32,400
 Dad, thank you.
 
-791
+775
 00:40:54,400 --> 00:40:56,400
 Come on.
 
-792
+776
 00:40:56,400 --> 00:40:58,400
 Come on, let's go in order.
 
-793
+777
 00:40:58,400 --> 00:41:00,400
 Grandpa and I are going to get the wires.
 
-794
+778
 00:41:00,400 --> 00:41:02,400
 Yes, get the wires. Because I don't have enough of them.
 
-795
+779
 00:41:02,400 --> 00:41:04,400
 Listen, Nikita, let's go to the sea.
 
-796
+780
 00:41:04,400 --> 00:41:06,400
 Or we can go to the Northern Vynogradniks,
 
-797
+781
 00:41:06,400 --> 00:41:08,400
 because we haven't searched there yet.
 
-798
+782
 00:41:08,400 --> 00:41:10,400
 It's very crowded there.
 
-799
+783
 00:41:10,400 --> 00:41:12,400
 Good morning.
 
-800
+784
 00:41:12,400 --> 00:41:14,400
 Good morning. Hello.
 
-801
+785
 00:41:14,400 --> 00:41:16,400
 Hello, mom.
 
-802
+786
 00:41:16,400 --> 00:41:18,400
 It's the weekend. You've already got up and had breakfast.
 
-803
+787
 00:41:18,400 --> 00:41:20,400
 Dad has started running. I don't recognize you.
 
-804
+788
 00:41:20,400 --> 00:41:22,400
 Sport is life and peace.
 
-805
+789
 00:41:22,400 --> 00:41:24,400
 Yes. Yes. We grow and develop.
 
-806
+790
 00:41:24,400 --> 00:41:26,400
 Yes, mom.
 
-807
+791
 00:41:30,400 --> 00:41:32,400
 I've got a surprise for you, too.
 
-808
+792
 00:41:32,400 --> 00:41:34,400
 What is it?
 
-809
+793
 00:41:34,400 --> 00:41:36,400
 Today we're going on a sea trip.
 
-810
+794
 00:41:36,400 --> 00:41:38,400
 I've already bought the tickets,
 
-811
+795
 00:41:38,400 --> 00:41:40,400
 so no objections.
 
-812
+796
 00:41:40,400 --> 00:41:42,400
 That's great, mom.
 
-813
+797
 00:41:42,400 --> 00:41:44,400
 Thank you very much.
 
-814
+798
 00:41:44,400 --> 00:41:46,400
 Wonderful surprise.
 
-815
+799
 00:41:46,400 --> 00:41:48,400
 Thank you, mom.
 
-816
+800
 00:41:48,400 --> 00:41:50,400
 Mom, thank you very much.
 
-817
+801
 00:41:50,400 --> 00:41:52,400
 Thank you.
 
-818
+802
 00:41:52,400 --> 00:41:54,400
 Thank you.
 
-819
+803
 00:41:58,400 --> 00:42:00,400
 Mom, look how beautiful it is.
 
-820
+804
 00:42:02,400 --> 00:42:04,400
 Oh, how beautiful it is here.
 
-821
+805
 00:42:04,400 --> 00:42:06,400
 Yes, but this village has one drawback.
 
-822
+806
 00:42:06,400 --> 00:42:08,400
 What drawback?
 
-823
+807
 00:42:08,400 --> 00:42:10,400
 You can't leave everything and go to the sea.
 
-824
+808
 00:42:10,400 --> 00:42:12,400
 Grandpa, let's go.
 
-825
+809
 00:42:12,400 --> 00:42:14,400
 Listen, mom,
 
-826
+810
 00:42:14,400 --> 00:42:16,400
 we didn't go on vacation because of this drawback.
 
-827
+811
 00:42:16,400 --> 00:42:18,400
 By the way, Ksyusha
 
-828
+812
 00:42:18,400 --> 00:42:20,400
 is already in Maldives with her parents.
 
-829
+813
 00:42:20,400 --> 00:42:22,400
 And her parents are in Spain.
 
-830
+814
 00:42:22,400 --> 00:42:24,400
 While we're relaxing here,
 
-831
+815
 00:42:24,400 --> 00:42:26,400
 we're waiting for the one who's sad
 
-832
+816
 00:42:26,400 --> 00:42:28,400
 and waiting for help.
 
-833
+817
 00:42:28,400 --> 00:42:30,400
 Guys, by the way, did you leave him something to eat?
 
-834
+818
 00:42:30,400 --> 00:42:32,400
 What is he eating?
 
-835
+819
 00:42:32,400 --> 00:42:34,400
 I left him a chocolate bar.
 
-836
+820
 00:42:34,400 --> 00:42:36,400
 It will be enough for two hours.
 
-837
+821
 00:42:36,400 --> 00:42:38,400
 In the kitchen?
 
-838
+822
 00:42:38,400 --> 00:42:40,400
 Yes.
 
-839
+823
 00:42:40,400 --> 00:42:42,400
 This one?
 
-840
+824
 00:42:50,400 --> 00:42:52,400
 Yes.
 
-841
+825
 00:43:12,400 --> 00:43:14,400
 What are you doing here?
 
-842
+826
 00:43:14,400 --> 00:43:16,400
 To keep a secret?
 
-843
+827
 00:43:16,400 --> 00:43:18,400
 We're keeping a secret.
 
-844
+828
 00:43:18,400 --> 00:43:20,400
 We're not going anywhere.
 
-845
+829
 00:43:20,400 --> 00:43:22,400
 And grandpa hasn't been with us for a long time.
 
-846
+830
 00:43:22,400 --> 00:43:24,400
 Yes, grandpa.
 
-847
+831
 00:43:24,400 --> 00:43:26,400
 You haven't been with us for a long time.
 
-848
+832
 00:43:26,400 --> 00:43:28,400
 A long time, yes.
 
-849
+833
 00:43:28,400 --> 00:43:30,400
 Mom, why did you leave?
 
-850
+834
 00:43:30,400 --> 00:43:32,400
 Let's take some more pictures.
 
-851
+835
 00:43:32,400 --> 00:43:34,400
 You'll be a queen.
 
-852
+836
 00:43:34,400 --> 00:43:36,400
 Will the king go to take pictures with me?
 
-853
+837
 00:43:36,400 --> 00:43:38,400
 Yes.
 
-854
+838
 00:43:48,400 --> 00:43:50,400
 Let's go.
 
-855
+839
 00:44:18,400 --> 00:44:24,400
 The clock is ticking, and the clock is ticking We are waiting for the light and the earth, and we are dreaming
 
-856
+840
 00:44:27,400 --> 00:44:33,400
 And we are dreaming of the hero of the cosmodrome
 
-857
+841
 00:44:34,400 --> 00:44:39,400
 And this is not the ice blue
 
-858
+842
 00:44:42,400 --> 00:44:47,400
 And we are dreaming of the grass, the grass of the home
 
-859
+843
 00:44:49,400 --> 00:44:54,400
 The green, the green grass
 
-860
+844
 00:45:16,400 --> 00:45:17,400
 Kurakaka!
 
-861
+845
 00:45:18,400 --> 00:45:19,400
 Curakaka?
 
-862
+846
 00:45:19,400 --> 00:45:27,400
 Curakaka,alis!
 
-863
+847
 00:45:33,400 --> 00:45:36,400
 Curakaks!
 
-864
+848
 00:45:39,400 --> 00:45:44,400
 According to the family business, do you want alloy, but it does not matter if you offer
 
-865
+849
 00:45:45,400 --> 00:45:47,400
 The main thing is to offer, right, daughter?
 
-866
+850
 00:45:48,400 --> 00:45:50,400
 It's a luxury one.
 
-867
+851
 00:45:51,600 --> 00:45:52,600
 Here it is.
 
-868
+852
 00:45:53,240 --> 00:45:54,240
 What's this?
 
-869
+853
 00:45:56,240 --> 00:45:57,240
 Did you steal it?
 
-870
+854
 00:45:59,400 --> 00:46:00,400
 Call the police.
 
-871
+855
 00:46:00,560 --> 00:46:01,560
 Calm down, Sveta.
 
-872
+856
 00:46:03,760 --> 00:46:04,760
 Wait.
 
-873
+857
 00:46:04,800 --> 00:46:05,800
 Why are you waiting?
 
-874
+858
 00:46:05,840 --> 00:46:06,840
 Nothing is missing.
 
-875
+859
 00:46:10,120 --> 00:46:11,120
 I know.
 
-876
+860
 00:46:11,480 --> 00:46:12,480
 I know, it's these...
 
-877
+861
 00:46:13,560 --> 00:46:14,560
 homeless, vandals.
 
-878
+862
 00:46:14,920 --> 00:46:16,480
 They left us an installation.
 
-879
+863
 00:46:16,760 --> 00:46:17,760
 Yes.
 
-880
+864
 00:46:17,760 --> 00:46:18,760
 Yes, that's right.
 
-881
+865
 00:46:19,040 --> 00:46:20,040
 It's a raccoon.
 
-882
+866
 00:46:20,880 --> 00:46:21,880
 A raccoon?
 
-883
+867
 00:46:22,240 --> 00:46:23,240
 What raccoon?
 
-884
+868
 00:46:23,480 --> 00:46:24,480
 It's so wild.
 
-885
+869
 00:46:25,600 --> 00:46:26,600
 Here.
 
-886
+870
 00:46:27,000 --> 00:46:28,000
 The window.
 
-887
+871
 00:46:28,760 --> 00:46:29,760
 Open it.
 
-888
+872
 00:46:30,000 --> 00:46:31,000
 It goes here.
 
-889
+873
 00:46:32,160 --> 00:46:33,160
 That's right, it's a raccoon.
 
-890
+874
 00:46:33,480 --> 00:46:34,960
 And it got in here.
 
-891
+875
 00:46:35,640 --> 00:46:36,960
 Please, don't touch anything.
 
-892
+876
 00:46:37,000 --> 00:46:38,240
 Nikita, don't touch anything.
 
-893
+877
 00:46:38,280 --> 00:46:39,600
 What if it's a sick raccoon?
 
-894
+878
 00:46:39,800 --> 00:46:41,440
 What if it's mad?
 
-895
+879
 00:46:41,880 --> 00:46:43,200
 It's my chocolate paste.
 
-896
+880
 00:46:45,920 --> 00:46:46,920
 Give me your hands.
 
-897
+881
 00:46:46,920 --> 00:46:48,920
 A raccoon with a bird flu.
 
-898
+882
 00:46:48,960 --> 00:46:50,960
 Everyone, put on your masks.
 
-899
+883
 00:46:51,000 --> 00:46:52,000
 That's it.
 
-900
+884
 00:46:52,560 --> 00:46:53,560
 My head hurts.
 
-901
+885
 00:46:53,600 --> 00:46:55,600
 Sveta, calm down, I beg you.
 
-902
+886
 00:46:56,000 --> 00:46:57,000
 Breathe.
 
-903
+887
 00:46:57,040 --> 00:46:58,040
 It's all right.
 
-904
+888
 00:46:58,280 --> 00:46:59,640
 The raccoon wanted something sweet.
 
-905
+889
 00:46:59,680 --> 00:47:00,840
 He smeared it all over here.
 
-906
+890
 00:47:00,880 --> 00:47:02,880
 Now we'll sweep it all away, wash it away.
 
-907
+891
 00:47:02,920 --> 00:47:03,920
 Well?
 
-908
+892
 00:47:03,960 --> 00:47:04,960
 Listen, Mom, don't worry.
 
-909
+893
 00:47:05,000 --> 00:47:06,400
 I'll wipe it all away, wipe it all away.
 
-910
+894
 00:47:06,440 --> 00:47:07,440
 Well...
 
-911
+895
 00:47:07,480 --> 00:47:08,480
 Yes, Mom.
 
-912
+896
 00:47:09,240 --> 00:47:10,720
 Oh, I told you, it's a raccoon.
 
-913
+897
 00:47:12,320 --> 00:47:14,640
 Okay, I'll call the wild boar hunting service.
 
-914
+898
 00:47:14,680 --> 00:47:15,680
 Mom, don't.
 
-915
+899
 00:47:15,720 --> 00:47:16,720
 Don't.
 
-916
+900
 00:47:16,920 --> 00:47:18,160
 I'm here.
 
-917
+901
 00:47:30,920 --> 00:47:33,160
 Ladies and gentlemen, we've checked everything.
 
-918
+902
 00:47:33,200 --> 00:47:35,080
 You can relax, you don't have any animals.
 
-919
+903
 00:47:35,120 --> 00:47:36,760
 Thanks, I transferred the money to my card.
 
-920
+904
 00:47:36,800 --> 00:47:38,840
 Tell me who it was, please.
 
-921
+905
 00:47:39,280 --> 00:47:41,240
 Not typical for a raccoon, at all.
 
-922
+906
 00:47:41,280 --> 00:47:42,600
 Someone was much bigger.
 
-923
+907
 00:47:42,640 --> 00:47:43,680
 A raccoon was bigger.
 
-924
+908
 00:47:43,720 --> 00:47:44,720
 A mutant.
 
-925
+909
 00:47:44,760 --> 00:47:45,840
 Or a boar.
 
-926
+910
 00:47:45,880 --> 00:47:46,880
 A mutant?
 
-927
+911
 00:47:46,920 --> 00:47:49,920
 But I don't think so. I haven't seen any beavers or mutants.
 
-928
+912
 00:47:49,920 --> 00:47:51,920
 What if he comes back?
 
-929
+913
 00:47:51,920 --> 00:47:53,920
 If he comes back, call us.
 
-930
+914
 00:47:53,920 --> 00:47:57,920
 For now, you'll have to spit in your mouth for self-defense.
 
-931
+915
 00:47:59,920 --> 00:48:01,920
 Spit in my mouth?
 
-932
+916
 00:48:02,920 --> 00:48:04,920
 Can you do that?
 
-933
+917
 00:48:08,920 --> 00:48:12,920
 What? If you do that again, you'll get in contact with the zoo.
 
-934
+918
 00:48:12,920 --> 00:48:15,920
 Nikita, it's not the time for the zoo.
 
-935
+919
 00:48:15,920 --> 00:48:18,920
 Look, I've found salt.
 
-936
+920
 00:48:18,920 --> 00:48:19,920
 Salt?
 
-937
+921
 00:48:19,920 --> 00:48:20,920
 Salt.
 
-938
+922
 00:48:20,920 --> 00:48:21,920
 Do you need salt?
 
-939
+923
 00:48:21,920 --> 00:48:22,920
 Salt.
 
-940
+924
 00:48:22,920 --> 00:48:24,920
 Well, this is your rare mineral, salt.
 
-941
+925
 00:48:24,920 --> 00:48:26,920
 You don't understand, this is salt.
 
-942
+926
 00:48:27,920 --> 00:48:29,920
 We have a lot of it in every store.
 
-943
+927
 00:48:29,920 --> 00:48:30,920
 A lot?
 
-944
+928
 00:48:30,920 --> 00:48:33,920
 I can give you a ton of it.
 
-945
+929
 00:48:33,920 --> 00:48:36,920
 Why didn't you say anything, Kurokako? Give me salt.
 
-946
+930
 00:48:36,920 --> 00:48:37,920
 But we have to return the salt.
 
-947
+931
 00:48:37,920 --> 00:48:38,920
 A lot of salt.
 
-948
+932
 00:48:38,920 --> 00:48:39,920
 What?
 
-949
+933
 00:48:39,920 --> 00:48:41,920
 This is my salt mineral.
 
-950
+934
 00:48:41,920 --> 00:48:42,920
 This is mine.
 
-951
+935
 00:48:42,920 --> 00:48:44,920
 This is my mother's mineral. She'll be mad. Give it to me.
 
-952
+936
 00:48:44,920 --> 00:48:45,920
 Give it to me.
 
-953
+937
 00:48:45,920 --> 00:48:46,920
 I'm waiting.
 
-954
+938
 00:48:46,920 --> 00:48:48,920
 I'll get you more. I promise.
 
-955
+939
 00:48:48,920 --> 00:48:51,920
 Nikita, I need to get a lot of salt. Will you help me?
 
-956
+940
 00:48:51,920 --> 00:48:52,920
 Yes.
 
-957
+941
 00:48:52,920 --> 00:48:54,920
 A lot of salt.
 
-958
+942
 00:48:54,920 --> 00:49:06,920
 Very good.
 
-959
+943
 00:49:06,920 --> 00:49:12,920
 Let me get it out.
 
-960
+944
 00:49:12,920 --> 00:49:16,920
 ATHENS
 
-961
+945
 00:49:16,920 --> 00:49:18,920
 They aren't there, though, now.
 
-962
+946
 00:49:18,920 --> 00:49:22,920
 That apple's not in there.
 
-963
+947
 00:49:22,920 --> 00:49:23,920
 Yes.
 
-964
+948
 00:49:36,580 --> 00:49:39,760
 Well, Alya, as you said,
 
-965
+949
 00:49:40,540 --> 00:49:46,380
 family is a little miracle in the vast universe.
 
-966
+950
 00:49:46,460 --> 00:49:47,460
 Right?
 
-967
+951
 00:49:48,540 --> 00:49:49,540
 Right.
 
-968
+952
 00:49:52,920 --> 00:49:54,260
 Come on, wake up.
 
-969
+953
 00:49:54,300 --> 00:49:57,500
 I like girly games the most.
 
-970
+954
 00:50:10,420 --> 00:50:16,760
 As you said, family is a little miracle in the vast universe.
 
-971
+955
 00:50:17,300 --> 00:50:18,720
 Right?
 
-972
+956
 00:50:20,080 --> 00:50:21,480
 summarized
 
-973
+957
 00:50:22,920 --> 00:50:24,920
 Mutant is back.
 
-974
+958
 00:50:28,920 --> 00:50:30,920
 Go to sleep, Mutant.
 
-975
+959
 00:50:52,920 --> 00:50:54,920
 Go to sleep, Mutant.
 
-976
+960
 00:51:22,920 --> 00:51:24,920
 Go to sleep, Mutant.
 
-977
+961
 00:51:32,920 --> 00:51:34,920
 You little brat!
 
-978
+962
 00:51:42,920 --> 00:51:44,920
 Sit down.
 
-979
+963
 00:51:44,920 --> 00:51:46,920
 Everything is fine.
 
-980
+964
 00:51:52,920 --> 00:51:54,920
 Yes, yes, yes, yes.
 
-981
+965
 00:51:56,920 --> 00:51:58,920
 Do you see this?
 
-982
+966
 00:51:58,920 --> 00:52:00,920
 Yes.
 
-983
+967
 00:52:00,920 --> 00:52:02,920
 What is this? Please, call an ambulance.
 
-984
+968
 00:52:02,920 --> 00:52:04,920
 Mom, calm down. This is our friend.
 
-985
+969
 00:52:04,920 --> 00:52:06,920
 He is an alien.
 
-986
+970
 00:52:06,920 --> 00:52:08,920
 What do you mean? Is he a stranger?
 
-987
+971
 00:52:08,920 --> 00:52:10,920
 Mom, he is not a stranger. Don't exaggerate.
 
-988
+972
 00:52:10,920 --> 00:52:12,920
 He is very close to us. He is our Dunishka.
 
-989
+973
 00:52:12,920 --> 00:52:14,920
 This scum has agonized you. Don't touch him.
 
-990
+974
 00:52:14,920 --> 00:52:16,920
 Sveta, what nonsense is this?
 
-991
+975
 00:52:16,920 --> 00:52:18,920
 He is completely harmless.
 
-992
+976
 00:52:18,920 --> 00:52:20,920
 Mom, he is in trouble, and we are helping him.
 
-993
+977
 00:52:20,920 --> 00:52:22,920
 Don't shout.
 
-994
+978
 00:52:22,920 --> 00:52:24,920
 We didn't say that you knew him. He is a psycho.
 
-995
+979
 00:52:24,920 --> 00:52:26,920
 Georgiy Evgenievich. What?
 
-996
+980
 00:52:26,920 --> 00:52:28,920
 Mom, let's leave him alone.
 
-997
+981
 00:52:28,920 --> 00:52:30,920
 Look how cool he is.
 
-998
+982
 00:52:30,920 --> 00:52:32,920
 Please.
 
-999
+983
 00:52:32,920 --> 00:52:34,920
 Where should we leave him?
 
-1000
+984
 00:52:34,920 --> 00:52:36,920
 Listen, we will repair his ship
 
-1001
+985
 00:52:36,920 --> 00:52:38,920
 and send him home.
 
-1002
+986
 00:52:38,920 --> 00:52:40,920
 Yes, and he will live with grandpa in the barn.
 
-1003
+987
 00:52:40,920 --> 00:52:42,920
 Let's leave him alone. Mom, please.
 
-1004
+988
 00:52:42,920 --> 00:52:44,920
 I will do everything you ask.
 
-1005
+989
 00:52:44,920 --> 00:52:46,920
 Moreover, you said it yourself. We need to help our neighbor.
 
-1006
+990
 00:52:46,920 --> 00:52:48,920
 Yes, Mom. He is a funny man.
 
-1007
+991
 00:52:48,920 --> 00:52:50,920
 He is a harmless creature.
 
-1008
+992
 00:52:50,920 --> 00:52:52,920
 Touch him. He is a very cool creature.
 
-1009
+993
 00:52:52,920 --> 00:52:54,920
 He is very soft. You will really like him.
 
-1010
+994
 00:52:54,920 --> 00:52:56,920
 Mom, he is kind. Don't be afraid.
 
-1011
+995
 00:52:56,920 --> 00:52:58,920
 We are touching him. You will really like him.
 
-1012
+996
 00:52:58,920 --> 00:53:00,920
 He is so soft. He is very good.
 
-1013
+997
 00:53:00,920 --> 00:53:02,920
 Come on.
 
-1014
+998
 00:53:02,920 --> 00:53:04,920
 Please.
 
-1015
+999
 00:53:04,920 --> 00:53:06,920
 Touch him.
 
-1016
+1000
 00:53:06,920 --> 00:53:08,920
 Don't be afraid.
 
-1017
+1001
 00:53:08,920 --> 00:53:10,920
 He is not scary.
 
-1018
+1002
 00:53:16,920 --> 00:53:18,920
 He is not scary.
 
-1019
+1003
 00:53:18,920 --> 00:53:20,920
 Do you see, Mom?
 
-1020
+1004
 00:53:20,920 --> 00:53:22,920
 The fur is moving.
 
-1021
+1005
 00:53:24,840 --> 00:53:25,840
 And Snorp is with us.
 
-1022
+1006
 00:53:26,920 --> 00:53:28,920
 Let's touch the spend for him.
 
-1023
+1007
 00:53:28,920 --> 00:53:30,920
 Listen, Mom. It's okay since it is not bad.
 
-1024
+1008
 00:53:30,920 --> 00:53:32,920
 Snorp will be dressed in a kilometameter cloth.
 
-1025
+1009
 00:53:32,920 --> 00:53:34,920
 Indeed. Just like aloe.
 
-1026
+1010
 00:53:34,920 --> 00:53:36,920
 What?
 
-1027
+1011
 00:53:36,920 --> 00:53:38,920
 Just like aloe, Misha?
 
-1028
+1012
 00:53:40,920 --> 00:53:42,920
 Just like aloe.
 
-1029
+1013
 00:53:50,920 --> 00:53:52,920
 The End
 
-1030
+1014
 00:53:56,420 --> 00:53:58,420
 Oh, wake up!
 
-1031
+1015
 00:53:58,440 --> 00:53:59,700
 Come on, get up.
 
-1032
+1016
 00:53:59,720 --> 00:54:01,560
 Grandpa already fixed the spaceship.
 
-1033
+1017
 00:54:01,580 --> 00:54:01,840
 Yes.
 
-1034
+1018
 00:54:01,860 --> 00:54:03,420
 Let's go and take a look.
 
-1035
+1019
 00:54:07,100 --> 00:54:08,940
 You fixed it so quickly.
 
-1036
+1020
 00:54:09,560 --> 00:54:11,300
 Dad, are you coming out too?
 
-1037
+1021
 00:54:12,240 --> 00:54:14,640
 Wow. I haven't decided yet.
 
-1038
+1022
 00:54:14,660 --> 00:54:16,100
 Thank you for your help.
 
-1039
+1023
 00:54:16,120 --> 00:54:19,580
 Without you, I'd just sit and wait for other Earthlings.
 
-1040
+1024
 00:54:19,580 --> 00:54:23,580
 What kind of help? We didn't find the gravitational module anyway.
 
-1041
+1025
 00:54:23,580 --> 00:54:26,580
 All right, I have to go to work.
 
-1042
+1026
 00:54:26,580 --> 00:54:29,580
 And we have to look for the detail. Let's go.
 
-1043
+1027
 00:54:29,580 --> 00:54:31,580
 If we can find it, of course.
 
-1044
+1028
 00:54:31,580 --> 00:54:34,580
 Wait, who will help me with the washing machine?
 
-1045
+1029
 00:54:36,580 --> 00:54:37,580
 Kakaloya.
 
-1046
+1030
 00:54:38,580 --> 00:54:41,580
 There will be a deputy minister of transport, and a mayor.
 
-1047
+1031
 00:54:41,580 --> 00:54:44,580
 There is also someone from Moscow.
 
-1048
+1032
 00:54:44,580 --> 00:54:47,580
 A banquet, a furset, a quartet. Well, as always.
 
-1049
+1033
 00:54:47,580 --> 00:54:50,580
 Taxi? Well, of course, it will fly.
 
-1050
+1034
 00:54:50,580 --> 00:54:53,580
 It will definitely fly. Where will it go?
 
-1051
+1035
 00:54:53,580 --> 00:54:56,580
 We are waiting for you. With my wife. Bye.
 
-1052
+1036
 00:54:56,580 --> 00:54:59,580
 See? We got lost.
 
-1053
+1037
 00:54:59,580 --> 00:55:02,580
 What is there on TV?
 
-1054
+1038
 00:55:04,580 --> 00:55:06,580
 Arkadiy Semenovich.
 
-1055
+1039
 00:55:06,580 --> 00:55:07,580
 Zhanna.
 
-1056
+1040
 00:55:10,580 --> 00:55:12,580
 Well, can I congratulate you?
 
-1057
+1041
 00:55:12,580 --> 00:55:13,580
 With what?
 
-1058
+1042
 00:55:13,580 --> 00:55:16,580
 You are our hero of the day. You made a flying taxi.
 
-1059
+1043
 00:55:16,580 --> 00:55:17,580
 What?
 
-1060
+1044
 00:55:17,580 --> 00:55:19,580
 With these very hands.
 
-1061
+1045
 00:55:19,580 --> 00:55:21,580
 Do you feel what it smells like?
 
-1062
+1046
 00:55:21,580 --> 00:55:23,580
 What? What does it smell like?
 
-1063
+1047
 00:55:23,580 --> 00:55:24,580
 Sensations.
 
-1064
+1048
 00:55:24,580 --> 00:55:25,580
 Ah.
 
-1065
+1049
 00:55:25,580 --> 00:55:26,580
 Sensations.
 
-1066
+1050
 00:55:26,580 --> 00:55:27,580
 Are you sure?
 
-1067
+1051
 00:55:27,580 --> 00:55:29,580
 Yes. Let's go and record the interview.
 
-1068
+1052
 00:55:29,580 --> 00:55:31,580
 Well, let's go and record it.
 
-1069
+1053
 00:55:40,580 --> 00:55:44,580
 Today the world-wide event has entered the browser.
 
-1070
+1054
 00:55:44,580 --> 00:55:46,580
 The flight company has created the world's first flying taxi.
 
-1071
+1055
 00:55:46,580 --> 00:55:49,580
 Arkadiy Semenovich, tell me, how do you feel?
 
-1072
+1056
 00:55:49,580 --> 00:55:50,580
 Louder!
 
-1073
+1057
 00:55:50,580 --> 00:55:51,580
 How do you feel?
 
-1074
+1058
 00:55:51,580 --> 00:55:53,580
 Excuse me, please do it louder.
 
-1075
+1059
 00:55:53,580 --> 00:55:55,580
 I am absolutely delighted.
 
-1076
+1060
 00:55:55,580 --> 00:55:59,580
 Despite the fact that no one believed in us.
 
-1077
+1061
 00:55:59,580 --> 00:56:01,580
 They laughed at us.
 
-1078
+1062
 00:56:01,580 --> 00:56:04,580
 But we still did it.
 
-1079
+1063
 00:56:04,580 --> 00:56:07,580
 Even Elon Musk was not able to do it.
 
-1080
+1064
 00:56:07,580 --> 00:56:09,580
 And we will show you.
 
-1081
+1065
 00:56:09,580 --> 00:56:11,580
 In three days.
 
-1082
+1066
 00:56:11,580 --> 00:56:13,580
 Flying taxi.
 
-1083
+1067
 00:56:13,580 --> 00:56:15,580
 My name is Potapov.
 
-1084
+1068
 00:56:15,580 --> 00:56:17,580
 I will help you.
 
-1085
+1069
 00:56:25,580 --> 00:56:26,580
 Your part is with Potapov.
 
-1086
+1070
 00:56:26,580 --> 00:56:27,580
 Are you sure?
 
-1087
+1071
 00:56:27,580 --> 00:56:28,580
 I am sure.
 
-1088
+1072
 00:56:28,580 --> 00:56:29,580
 What?
 
-1089
+1073
 00:56:29,580 --> 00:56:32,580
 A week ago, our office did not have any flying taxi in the name.
 
-1090
+1074
 00:56:32,580 --> 00:56:37,580
 No, there was one Chinese prototype that Potapov sold in Shanghai.
 
-1091
+1075
 00:56:37,580 --> 00:56:38,580
 Ah.
 
-1092
+1076
 00:56:38,580 --> 00:56:39,580
 He wanted to redo it.
 
-1093
+1077
 00:56:39,580 --> 00:56:41,580
 It was profitable for his development.
 
-1094
+1078
 00:56:41,580 --> 00:56:43,580
 Well, there, in fact, is nothing.
 
-1095
+1079
 00:56:43,580 --> 00:56:44,580
 So, a motorroller with a motor.
 
-1096
+1080
 00:56:44,580 --> 00:56:50,580
 And now it really flies.
 
-1097
+1081
 00:56:50,580 --> 00:56:52,580
 And now the question.
 
-1098
+1082
 00:56:52,580 --> 00:56:53,580
 George Evgenievich.
 
-1099
+1083
 00:56:53,580 --> 00:56:54,580
 Yes, yes.
 
-1100
+1084
 00:56:54,580 --> 00:56:58,580
 Could he invent such a miracle of technology in a week, so to speak?
 
-1101
+1085
 00:56:58,580 --> 00:57:03,580
 So, if even Chinese technologies did not help him, it is unlikely that he himself will.
 
-1102
+1086
 00:57:03,580 --> 00:57:05,580
 So, the part of Potapov?
 
-1103
+1087
 00:57:05,580 --> 00:57:07,580
 The real flying taxi.
 
-1104
+1088
 00:57:07,580 --> 00:57:09,580
 Here, look.
 
-1105
+1089
 00:57:09,580 --> 00:57:11,580
 It is here in Abrao-Dyurso.
 
-1106
+1090
 00:57:11,580 --> 00:57:12,580
 The head of the company, Arkadiy Syvenovich Potapov,
 
-1107
+1091
 00:57:12,580 --> 00:57:14,580
 the ideologist and the inspirer of this project,
 
-1108
+1092
 00:57:14,580 --> 00:57:17,580
 today exclusively showed me this miracle of technology.
 
-1109
+1093
 00:57:17,580 --> 00:57:20,580
 Here, welcome to the Citadel of technological thought.
 
-1110
+1094
 00:57:20,580 --> 00:57:22,580
 The frontline, the domestic.
 
-1111
+1095
 00:57:22,580 --> 00:57:23,580
 Please.
 
-1112
+1096
 00:57:23,580 --> 00:57:24,580
 Where are you going?
 
-1113
+1097
 00:57:24,580 --> 00:57:25,580
 Send me out of here.
 
-1114
+1098
 00:57:25,580 --> 00:57:26,580
 Quiet.
 
-1115
+1099
 00:57:26,580 --> 00:57:27,580
 I'll do it myself.
 
-1116
+1100
 00:57:27,580 --> 00:57:28,580
 Here.
 
-1117
+1101
 00:57:28,580 --> 00:57:29,580
 Here.
 
-1118
+1102
 00:57:29,580 --> 00:57:30,580
 Here.
 
-1119
+1103
 00:57:30,580 --> 00:57:31,580
 Here.
 
-1120
+1104
 00:57:31,580 --> 00:57:32,580
 Here.
 
-1121
+1105
 00:57:32,580 --> 00:57:33,580
 Here.
 
-1122
+1106
 00:57:33,580 --> 00:57:34,580
 Here.
 
-1123
+1107
 00:57:34,580 --> 00:57:35,580
 Here.
 
-1124
+1108
 00:57:35,580 --> 00:57:36,580
 Here.
 
-1125
+1109
 00:57:36,580 --> 00:57:37,580
 Here.
 
-1126
+1110
 00:57:37,580 --> 00:57:38,580
 Here.
 
-1127
+1111
 00:57:38,580 --> 00:57:39,580
 Here.
 
-1128
+1112
 00:57:39,580 --> 00:57:40,580
 Here.
 
-1129
+1113
 00:57:40,580 --> 00:57:43,580
 So, why he stole my anti-gravity pressing…
 
-1130
+1114
 00:57:43,580 --> 00:57:46,580
 and inserted into your ugly机 .
 
-1131
+1115
 00:57:46,580 --> 00:57:47,580
 Let him come back.
 
-1132
+1116
 00:57:47,580 --> 00:57:48,580
 Yeah.
 
-1133
+1117
 00:57:48,580 --> 00:57:49,580
 Yes.
 
-1134
+1118
 00:57:49,580 --> 00:57:50,580
 He won't give it to me.
 
-1135
+1119
 00:57:50,580 --> 00:57:53,580
 If he doesn't show a flying taxi at the exhibition in a week,
 
-1136
+1120
 00:57:53,580 --> 00:57:55,580
 he'll settle down at the cost of nothing.
 
-1137
+1121
 00:57:55,580 --> 00:57:58,580
 So, you have to return it, Detal.
 
-1138
+1122
 00:58:01,580 --> 00:58:04,580
 Good morning.
 
-1139
+1123
 00:58:04,580 --> 00:58:06,580
 Hello, everybody.
 
-1140
+1124
 00:58:06,580 --> 00:58:08,580
 This is your Special rental company.
 
-1141
+1125
 00:58:08,580 --> 00:58:09,580
 C-icias.com
 
-1142
+1126
 00:58:09,580 --> 00:58:14,040
 This is a special night report from the very center of the newest technologies.
 
-1143
+1127
 00:58:14,040 --> 00:58:16,040
 From the company Ulyot.
 
-1144
+1128
 00:58:16,040 --> 00:58:18,040
 And here are our first guests.
 
-1145
+1129
 00:58:18,040 --> 00:58:21,040
 Girl, this is a closed territory. What are you doing here?
 
-1146
+1130
 00:58:21,040 --> 00:58:23,540
 I'm burning, damn it. I'm a journalist and a blogger.
 
-1147
+1131
 00:58:23,540 --> 00:58:25,540
 Okay, that's it. You can't shoot here. Take it away.
 
-1148
+1132
 00:58:25,540 --> 00:58:27,540
 Hey! You have no right!
 
-1149
+1133
 00:58:27,540 --> 00:58:30,540
 Hey, where are you going? I'm going to throw you in the trash!
 
-1150
+1134
 00:58:30,540 --> 00:58:33,540
 This is my property! I'm not going anywhere!
 
-1151
+1135
 00:58:39,580 --> 00:58:41,580
 Come on, let's go.
 
-1152
+1136
 00:58:50,580 --> 00:58:52,580
 The item is here.
 
-1153
+1137
 00:58:52,580 --> 00:58:54,580
 Okay.
 
-1154
+1138
 00:59:07,580 --> 00:59:09,580
 Grandpa! Grandpa!
 
-1155
+1139
 00:59:09,580 --> 00:59:10,580
 What?
 
-1156
+1140
 00:59:10,580 --> 00:59:12,580
 Grandpa! Grandpa!
 
-1157
+1141
 00:59:12,580 --> 00:59:13,580
 Where are you going?
 
-1158
+1142
 00:59:13,580 --> 00:59:14,580
 Grandpa!
 
-1159
+1143
 00:59:14,580 --> 00:59:16,580
 Hold him! Hold him!
 
-1160
+1144
 00:59:22,580 --> 00:59:24,580
 What's wrong?
 
-1161
+1145
 00:59:24,580 --> 00:59:26,580
 How did you turn it on?
 
-1162
+1146
 00:59:26,580 --> 00:59:28,580
 I don't know.
 
-1163
+1147
 00:59:28,580 --> 00:59:29,580
 Can I do it again?
 
-1164
+1148
 00:59:29,580 --> 00:59:30,580
 I'll give it to you again.
 
-1165
+1149
 00:59:30,580 --> 00:59:31,580
 Let's get out of here.
 
-1166
+1150
 00:59:31,580 --> 00:59:32,580
 Come on.
 
-1167
+1151
 00:59:33,580 --> 00:59:36,580
 Not there. Where did you come from? There's a alarm.
 
-1168
+1152
 00:59:36,580 --> 00:59:39,580
 What alarm? You didn't say anything about the alarm.
 
-1169
+1153
 00:59:39,580 --> 00:59:41,580
 I'm talking about the alarm and about the cameras.
 
-1170
+1154
 00:59:41,580 --> 00:59:42,580
 You just don't listen to me.
 
-1171
+1155
 00:59:42,580 --> 00:59:44,580
 Stop it! Turn off the light!
 
-1172
+1156
 01:00:00,580 --> 01:00:04,580
 Semyonov and his team!
 
-1173
+1157
 01:00:04,580 --> 01:00:05,580
 Well?
 
-1174
+1158
 01:00:05,580 --> 01:00:08,580
 In this round you won...
 
-1175
+1159
 01:00:09,580 --> 01:00:11,580
 Well, of course, you didn't do anything wrong.
 
-1176
+1160
 01:00:11,580 --> 01:00:14,580
 Because in your gorgeous plan there is one flaw.
 
-1177
+1161
 01:00:14,580 --> 01:00:21,580
 This is a video surveillance camera, which has filmed your intrusion and theft of private property.
 
-1178
+1162
 01:00:21,580 --> 01:00:23,580
 This is not your part.
 
-1179
+1163
 01:00:23,580 --> 01:00:25,580
 Is it yours?
 
-1180
+1164
 01:00:25,580 --> 01:00:27,580
 How will you prove it?
 
-1181
+1165
 01:00:27,580 --> 01:00:29,580
 And in general, you, brave boy.
 
-1182
+1166
 01:00:29,580 --> 01:00:31,580
 You will sing at our orphanage.
 
-1183
+1167
 01:00:32,580 --> 01:00:34,580
 Together with your sister.
 
-1184
+1168
 01:00:35,580 --> 01:00:37,580
 And your grandfather in the orphanage.
 
-1185
+1169
 01:00:37,580 --> 01:00:39,580
 Oh my God!
 
-1186
+1170
 01:00:41,580 --> 01:00:42,580
 Mishka.
 
-1187
+1171
 01:00:46,580 --> 01:00:50,580
 Do you really take revenge on me because I fired you?
 
-1188
+1172
 01:00:54,580 --> 01:00:56,580
 You were fired?
 
-1189
+1173
 01:01:02,580 --> 01:01:04,580
 So you're lying to your wife?
 
-1190
+1174
 01:01:05,580 --> 01:01:07,580
 Well, not good, not good.
 
-1191
+1175
 01:01:07,580 --> 01:01:09,580
 Mishka is a liar.
 
-1192
+1176
 01:01:09,580 --> 01:01:11,580
 Okay, tell me.
 
-1193
+1177
 01:01:11,580 --> 01:01:13,580
 Why do you need my part?
 
-1194
+1178
 01:01:13,580 --> 01:01:15,580
 Who sent you here?
 
-1195
+1179
 01:01:15,580 --> 01:01:16,580
 No one sent us here.
 
-1196
+1180
 01:01:16,580 --> 01:01:18,580
 We just wanted to help Snorp fix the star.
 
-1197
+1181
 01:01:18,580 --> 01:01:19,580
 What?
 
-1198
+1182
 01:01:21,580 --> 01:01:23,580
 Who is Snorp?
 
-1199
+1183
 01:01:23,580 --> 01:01:24,580
 Who?
 
-1200
+1184
 01:01:24,580 --> 01:01:26,580
 Snorp is his grandfather.
 
-1201
+1185
 01:01:26,580 --> 01:01:27,580
 It's his surname.
 
-1202
+1186
 01:01:27,580 --> 01:01:28,580
 I am Snorp.
 
-1203
+1187
 01:01:28,580 --> 01:01:29,580
 He is just a pilot.
 
-1204
+1188
 01:01:29,580 --> 01:01:30,580
 And he built a ship.
 
-1205
+1189
 01:01:30,580 --> 01:01:31,580
 And this is his part.
 
-1206
+1190
 01:01:31,580 --> 01:01:32,580
 So you want to say...
 
-1207
+1191
 01:01:32,580 --> 01:01:33,580
 Yes.
 
-1208
+1192
 01:01:34,580 --> 01:01:40,580
 That the ship from which this part fell off was always with you?
 
-1209
+1193
 01:01:43,580 --> 01:01:44,580
 No.
 
-1210
+1194
 01:01:45,580 --> 01:01:46,580
 No.
 
-1211
+1195
 01:01:57,580 --> 01:01:59,580
 Semenov, I have a great offer for you.
 
-1212
+1196
 01:02:03,580 --> 01:02:05,580
 So in the end, are you Mishka or Volkov?
 
-1213
+1197
 01:02:05,580 --> 01:02:06,580
 Well, okay.
 
-1214
+1198
 01:02:08,580 --> 01:02:10,580
 Listen, give me your father.
 
-1215
+1199
 01:02:10,580 --> 01:02:12,580
 You are Snorp to me or take the plate.
 
-1216
+1200
 01:02:12,580 --> 01:02:14,580
 And I am your family.
 
-1217
+1201
 01:02:14,580 --> 01:02:16,580
 Dad, please, don't give Snorp.
 
-1218
+1202
 01:02:16,580 --> 01:02:19,580
 Friends can't be betrayed, dad.
 
-1219
+1203
 01:02:20,580 --> 01:02:21,580
 Dad.
 
-1220
+1204
 01:02:21,580 --> 01:02:22,580
 Please, dad.
 
-1221
+1205
 01:02:23,580 --> 01:02:24,580
 No, don't.
 
-1222
+1206
 01:02:26,580 --> 01:02:27,580
 Yes, dad, don't.
 
-1223
+1207
 01:02:27,580 --> 01:02:29,580
 Misha, turn your head at least once.
 
-1224
+1208
 01:02:29,580 --> 01:02:32,580
 He said your father was not from the programme激 sizes at all.
 
-1225
+1209
 01:02:32,580 --> 01:02:34,580
 He could be your father, I am looking for his family.
 
-1226
+1210
 01:02:35,580 --> 01:02:41,580
 But if that is so, he belongs to you.
 
-1227
+1211
 01:02:42,580 --> 01:02:44,580
 To his father?
 
-1228
+1212
 01:02:45,580 --> 01:02:46,580
 To your grandfather?
 
-1229
+1213
 01:02:47,580 --> 01:02:50,580
 Is he a family or some animal from space?
 
-1230
+1214
 01:02:50,580 --> 01:02:52,580
 Take it, take it.
 
-1231
+1215
 01:02:52,580 --> 01:02:54,580
 Here.
 
-1232
+1216
 01:02:59,580 --> 01:03:01,580
 Something happened?
 
-1233
+1217
 01:03:01,580 --> 01:03:04,580
 And where is Nikita? Katya?
 
-1234
+1218
 01:03:04,580 --> 01:03:06,580
 Just Goga?
 
-1235
+1219
 01:03:10,580 --> 01:03:13,580
 They will take you to Nikita.
 
-1236
+1220
 01:03:20,580 --> 01:03:22,580
 I see.
 
-1237
+1221
 01:03:25,580 --> 01:03:28,580
 I have a whole bottle of Royale here.
 
-1238
+1222
 01:03:28,580 --> 01:03:31,580
 And an alien.
 
-1239
+1223
 01:03:31,580 --> 01:03:34,580
 And a flying ship.
 
-1240
+1224
 01:03:34,580 --> 01:03:36,580
 Yes.
 
-1241
+1225
 01:03:36,580 --> 01:03:40,580
 Semyonov, you know how to cheer me up.
 
-1242
+1226
 01:03:45,580 --> 01:03:48,580
 Let Semyonov go.
 
-1243
+1227
 01:03:48,580 --> 01:03:50,580
 Have a good day.
 
-1244
+1228
 01:03:50,580 --> 01:03:52,580
 Have a good day.
 
-1245
+1229
 01:03:53,580 --> 01:03:55,580
 I'm sorry, friend.
 
-1246
+1230
 01:03:55,580 --> 01:03:57,580
 It's my fault.
 
-1247
+1231
 01:03:59,580 --> 01:04:01,580
 Load it.
 
-1248
+1232
 01:04:01,580 --> 01:04:03,580
 I did something wrong.
 
-1249
+1233
 01:04:03,580 --> 01:04:05,580
 It's all right.
 
-1250
+1234
 01:04:05,580 --> 01:04:07,580
 Welcome to Earth.
 
-1251
+1235
 01:04:07,580 --> 01:04:09,580
 What for?
 
-1252
+1236
 01:04:09,580 --> 01:04:11,580
 Wait.
 
-1253
+1237
 01:04:20,580 --> 01:04:22,580
 Good.
 
-1254
+1238
 01:04:22,580 --> 01:04:24,580
 Analytics.
 
-1255
+1239
 01:04:24,580 --> 01:04:27,580
 We should be able to do it.
 
-1256
+1240
 01:04:27,580 --> 01:04:29,580
 Well, I agree.
 
-1257
+1241
 01:04:29,580 --> 01:04:30,580
 Let us do it.
 
-1258
+1242
 01:04:35,580 --> 01:04:38,580
 This is the path to the end of the hypnosis.
 
-1259
+1243
 01:04:38,580 --> 01:04:42,580
 It is impossible to conhece the behavior of such individuals.
 
-1260
+1244
 01:04:42,580 --> 01:04:44,580
 Yes, I understand.
 
-1261
+1245
 01:04:44,580 --> 01:04:45,580
 But what about you?
 
-1262
+1246
 01:04:45,580 --> 01:04:47,580
 You should know well, too.
 
-1263
+1247
 01:04:47,580 --> 01:04:48,580
 Let's go.
 
-1264
+1248
 01:05:48,580 --> 01:05:50,820
 Hope leaves the last one.
 
-1265
+1249
 01:05:51,060 --> 01:05:52,060
 I agree.
 
-1266
+1250
 01:05:52,540 --> 01:05:53,740
 But under one condition.
 
-1267
+1251
 01:05:54,380 --> 01:05:57,500
 If you have this hope.
 
-1268
+1252
 01:05:57,500 --> 01:05:58,500
 Oh, my God.
 
-1269
+1253
 01:06:18,220 --> 01:06:21,300
 Well, how is your gravitsapp working?
 
-1270
+1254
 01:06:22,580 --> 01:06:24,700
 I don't understand what you're talking about, earthling.
 
-1271
+1255
 01:06:25,060 --> 01:06:27,460
 Judging by your appearance and IQ level,
 
-1272
+1256
 01:06:27,820 --> 01:06:30,380
 you're hardly any different from an inflated sofa.
 
-1273
+1257
 01:06:31,140 --> 01:06:32,700
 Teach your ship how to control it.
 
-1274
+1258
 01:06:33,220 --> 01:06:35,980
 No. I want to see Nikita.
 
-1275
+1259
 01:06:39,060 --> 01:06:42,380
 Listen, inflated palm, I give you one minute.
 
-1276
+1260
 01:06:42,820 --> 01:06:44,900
 If you don't explain how this thing flies,
 
-1277
+1261
 01:06:45,140 --> 01:06:48,540
 I'll take your Nikita and his whole family and make it hurt a lot.
 
-1278
+1262
 01:06:49,100 --> 01:06:50,620
 No, no, don't.
 
-1279
+1263
 01:06:51,300 --> 01:06:52,980
 I'll teach you how to fly.
 
-1280
+1264
 01:06:54,940 --> 01:06:55,940
 What's worse?
 
-1281
+1265
 01:07:57,700 --> 01:08:15,380
 How I Courtyard Tony Какoutov
 
-1282
+1266
 01:08:17,780 --> 01:08:19,180
 Yes, I have lied to you.
 
-1283
+1267
 01:08:22,740 --> 01:08:23,940
 You know why?
 
-1284
+1268
 01:08:25,020 --> 01:08:26,560
 Because you guys aren't as close as you are.
 
-1285
+1269
 01:08:26,560 --> 01:08:30,680
 Are you a good friend, dad? You're a good friend. You discuss everything.
 
-1286
+1270
 01:08:30,760 --> 01:08:33,520
 You've been digging in your barn for three years and you don't get out of it.
 
-1287
+1271
 01:08:33,600 --> 01:08:34,480
 What's wrong with you?
 
-1288
+1272
 01:08:34,560 --> 01:08:36,640
 Mom, you said it yourself. Grandpa has depression.
 
-1289
+1273
 01:08:36,720 --> 01:08:40,640
 What depression? It was just very hard for me. That's all.
 
-1290
+1274
 01:08:40,720 --> 01:08:45,120
 Dad, it was hard for everyone. We all lost a loved one.
 
-1291
+1275
 01:08:46,160 --> 01:08:49,360
 But we continue to live somehow.
 
-1292
+1276
 01:08:49,440 --> 01:08:53,840
 We made a room for you. The biggest one in the house. For you.
 
-1293
+1277
 01:08:53,920 --> 01:08:54,560
 Again.
 
-1294
+1278
 01:08:54,560 --> 01:08:58,880
 Again, dad. You don't want to talk to anyone. You haven't been out of it for three years.
 
-1295
+1279
 01:08:58,960 --> 01:09:01,760
 What's wrong with you? What's wrong with you? I'm an adult.
 
-1296
+1280
 01:09:01,840 --> 01:09:02,560
 Calm down.
 
-1297
+1281
 01:09:02,640 --> 01:09:05,720
 No, let's discuss. Dad asks us to discuss.
 
-1298
+1282
 01:09:05,800 --> 01:09:07,160
 Are we kids?
 
-1299
+1283
 01:09:07,240 --> 01:09:08,640
 I can do whatever I want.
 
-1300
+1284
 01:09:09,440 --> 01:09:14,720
 Grandpa, stop it. Mom, dad, stop behaving like kids.
 
-1301
+1285
 01:09:14,800 --> 01:09:18,640
 We're all one family. And now our friend is in trouble.
 
-1302
+1286
 01:09:18,720 --> 01:09:21,080
 He believed us, but we betrayed him.
 
-1303
+1287
 01:09:21,880 --> 01:09:23,360
 Do they do that?
 
-1304
+1288
 01:09:24,160 --> 01:09:25,840
 We have to fix it.
 
-1305
+1289
 01:09:30,760 --> 01:09:34,280
 I'll tie you up. You said it well. Good boy.
 
-1306
+1290
 01:09:34,960 --> 01:09:37,680
 Right. Right. Right.
 
-1307
+1291
 01:09:43,520 --> 01:09:44,640
 What's wrong with you?
 
-1308
+1292
 01:09:51,760 --> 01:09:52,560
 Go.
 
-1309
+1293
 01:09:54,160 --> 01:09:57,360
 Zhanna! Hello. Come on in, please.
 
-1310
+1294
 01:09:58,560 --> 01:10:01,760
 To the stage. Play some music. Where are you dragging the table?
 
-1311
+1295
 01:10:02,680 --> 01:10:04,960
 Back. To the stage.
 
-1312
+1296
 01:10:08,480 --> 01:10:13,520
 Guys, we don't have time for a walk. Bring some drinks.
 
-1313
+1297
 01:10:16,480 --> 01:10:20,960
 What kind of car is this? What kind of car is this?
 
-1314
+1298
 01:10:22,480 --> 01:10:23,160
 This?
 
-1315
+1299
 01:10:24,360 --> 01:10:25,880
 What kind of company is this?
 
-1316
+1300
 01:10:25,960 --> 01:10:28,960
 The sweetest. Space desserts.
 
-1317
+1301
 01:10:29,040 --> 01:10:29,760
 Everything is here.
 
-1318
+1302
 01:10:29,840 --> 01:10:33,360
 Postcards, product checks, composition and a list of desserts.
 
-1319
+1303
 01:10:33,440 --> 01:10:34,960
 Very good.
 
-1320
+1304
 01:10:36,880 --> 01:10:39,680
 Bring a cake and a tablecloth for the market.
 
-1321
+1305
 01:10:41,360 --> 01:10:43,040
 Don't look at the water, kid.
 
-1322
+1306
 01:10:50,320 --> 01:10:52,800
 What sensation did you prepare for us?
 
-1323
+1307
 01:10:52,800 --> 01:10:56,080
 I can't tell you anything yet, but the report will be a bomb.
 
-1324
+1308
 01:10:56,160 --> 01:10:59,200
 But you can come on air on my team, please. Thank you.
 
-1325
+1309
 01:10:59,280 --> 01:11:09,880
 The
 
-1326
+1310
 01:11:09,920 --> 01:11:11,880
 The
 
-1327
+1311
 01:11:11,880 --> 01:11:13,880
 The
 
-1328
+1312
 01:11:13,880 --> 01:11:15,880
 The
 
-1329
+1313
 01:11:15,880 --> 01:11:17,880
 The
 
-1330
+1314
 01:11:17,880 --> 01:11:19,880
 The
 
-1331
+1315
 01:11:19,880 --> 01:11:21,880
 The
 
-1332
+1316
 01:11:21,880 --> 01:11:22,600
 The
 
-1333
+1317
 01:11:22,600 --> 01:11:23,600
 The
 
-1334
+1318
 01:11:23,600 --> 01:11:24,600
 The
 
-1335
+1319
 01:11:24,600 --> 01:11:26,600
 The
 
-1336
+1320
 01:11:26,640 --> 01:11:28,600
 The
 
-1337
+1321
 01:11:28,600 --> 01:11:30,340
 The
 
-1338
+1322
 01:11:30,440 --> 01:11:32,640
 The
 
-1339
+1323
 01:11:32,720 --> 01:11:39,640
 The
 
-1340
+1324
 01:11:40,720 --> 01:11:45,720
 The
 
-1341
+1325
 01:11:45,800 --> 01:11:49,160
 The
 
-1342
+1326
 01:11:49,240 --> 01:11:52,060
 The
 
-1343
+1327
 01:11:52,300 --> 01:11:52,460
 The
 
-1344
+1328
 01:11:52,460 --> 01:11:52,560
 The
 
-1345
+1329
 01:11:52,560 --> 01:12:04,500
 This is a diver. I'm on the spot.
 
-1346
+1330
 01:12:06,100 --> 01:12:06,700
 Yes, I'm on the spot.
 
-1347
+1331
 01:12:19,480 --> 01:12:21,300
 They changed the key. Let's go through the basement.
 
-1348
+1332
 01:12:21,300 --> 01:12:24,300
 Wait, the window is open. I can get in.
 
-1349
+1333
 01:12:26,300 --> 01:12:27,300
 Be careful, son.
 
-1350
+1334
 01:12:33,300 --> 01:12:34,300
 It fits perfectly.
 
-1351
+1335
 01:12:36,300 --> 01:12:42,300
 Well, little diver, let's make some money.
 
-1352
+1336
 01:12:44,300 --> 01:12:48,300
 Arkady Semyonovich, who will build the ships when we get the investment?
 
-1353
+1337
 01:12:49,300 --> 01:12:50,300
 Who?
 
-1354
+1338
 01:12:51,300 --> 01:12:52,300
 Our friend.
 
-1355
+1339
 01:12:54,300 --> 01:12:56,300
 You're not my friend, you bastard.
 
-1356
+1340
 01:13:13,300 --> 01:13:14,300
 Follow us, guys.
 
-1357
+1341
 01:13:21,300 --> 01:13:22,300
 Come let's go.
 
-1358
+1342
 01:13:32,300 --> 01:13:33,300
 Championship forマrsного .
 
-1359
+1343
 01:13:33,300 --> 01:13:35,300
 What's this?
 
-1360
+1344
 01:13:38,300 --> 01:13:39,300
 Did you hear that?
 
-1361
+1345
 01:13:39,300 --> 01:13:40,300
 What?
 
-1362
+1346
 01:13:40,300 --> 01:13:44,300
 What?
 
-1363
+1347
 01:13:44,300 --> 01:13:47,420
 Sounds...
 
-1364
+1348
 01:13:47,420 --> 01:13:49,300
 just sounds of your международного успеха.
 
-1365
+1349
 01:13:49,300 --> 01:13:56,300
 I think they're gone.
 
-1366
+1350
 01:14:02,300 --> 01:14:06,300
 I'm waiting for him. I'm waiting for him.
 
-1367
+1351
 01:14:06,300 --> 01:14:08,300
 Where are you?
 
-1368
+1352
 01:14:08,300 --> 01:14:11,300
 Nikita? Earthlings?
 
-1369
+1353
 01:14:11,300 --> 01:14:13,300
 No.
 
-1370
+1354
 01:14:13,300 --> 01:14:19,300
 Mother of God! I'm here! I'm here! Mother of Nikita!
 
-1371
+1355
 01:14:19,300 --> 01:14:22,300
 I'm here! I'm here!
 
-1372
+1356
 01:14:22,300 --> 01:14:25,300
 Nikita, he locked me up!
 
-1373
+1357
 01:14:25,300 --> 01:14:27,300
 Nikita, we're listening.
 
-1374
+1358
 01:14:27,300 --> 01:14:30,300
 Grandpa, come in. We need your help, urgently!
 
-1375
+1359
 01:14:36,300 --> 01:14:38,300
 I hear strange noises.
 
-1376
+1360
 01:14:41,300 --> 01:14:43,300
 I hope you're my mother.
 
-1377
+1361
 01:14:43,300 --> 01:14:45,300
 We've prepared ourselves.
 
-1378
+1362
 01:14:45,300 --> 01:14:50,300
 Because now you'll see what will change the life of our whole country.
 
-1379
+1363
 01:14:50,300 --> 01:14:52,300
 Let's see.
 
-1380
+1364
 01:14:55,300 --> 01:14:56,300
 What? How?
 
-1381
+1365
 01:14:56,300 --> 01:14:58,300
 Wait, wait, wait.
 
-1382
+1366
 01:15:05,300 --> 01:15:10,300
 Nikita! My friends! I'm so glad to see you!
 
-1383
+1367
 01:15:10,300 --> 01:15:13,300
 Wait, how are you? Didn't they hurt you?
 
-1384
+1368
 01:15:13,300 --> 01:15:18,300
 Did it hurt? It hurt a lot. Because I missed you.
 
-1385
+1369
 01:15:23,300 --> 01:15:26,300
 Okay, run. And I haven't untwisted the part yet.
 
-1386
+1370
 01:15:26,300 --> 01:15:27,300
 Okay.
 
-1387
+1371
 01:15:28,300 --> 01:15:29,300
 Turn it around.
 
-1388
+1372
 01:15:29,300 --> 01:15:31,300
 I think the fish is stinking.
 
-1389
+1373
 01:15:31,300 --> 01:15:33,300
 Let's check.
 
-1390
+1374
 01:15:39,300 --> 01:15:40,300
 What's this?
 
-1391
+1375
 01:15:40,300 --> 01:15:42,300
 A cake.
 
-1392
+1376
 01:15:42,300 --> 01:15:44,300
 There was no cake on the plate.
 
-1393
+1377
 01:15:45,300 --> 01:15:48,300
 And this is a surprise. A compliment from the chef.
 
-1394
+1378
 01:15:48,300 --> 01:15:50,300
 So bring the surprise.
 
-1395
+1379
 01:15:50,300 --> 01:15:52,300
 The waiter. The waiters will cut it.
 
-1396
+1380
 01:15:52,300 --> 01:15:54,300
 Don't cut it. The cream is very tender. We'll do it ourselves.
 
-1397
+1381
 01:15:54,300 --> 01:15:55,300
 Uh-huh.
 
-1398
+1382
 01:16:02,300 --> 01:16:06,300
 Your beard has opened.
 
-1399
+1383
 01:16:08,300 --> 01:16:09,300
 Thank you.
 
-1400
+1384
 01:16:09,300 --> 01:16:10,300
 Bring it.
 
-1401
+1385
 01:16:10,300 --> 01:16:13,300
 So, comrades, let's continue the movement.
 
-1402
+1386
 01:16:13,300 --> 01:16:14,300
 What's wrong with you?
 
-1403
+1387
 01:16:14,300 --> 01:16:16,300
 Here. I can't do it.
 
-1404
+1388
 01:16:16,300 --> 01:16:18,300
 You need to pump yourself up, Nikita.
 
-1405
+1389
 01:16:22,300 --> 01:16:24,300
 Ladies and gentlemen, welcome!
 
-1406
+1390
 01:16:25,300 --> 01:16:28,300
 Arkadiy Semyonovich Ladapa!
 
-1407
+1391
 01:16:32,300 --> 01:16:33,300
 One moment.
 
-1408
+1392
 01:16:34,300 --> 01:16:35,300
 Turn it on.
 
-1409
+1393
 01:16:40,300 --> 01:16:43,300
 Dear friends.
 
-1410
+1394
 01:16:49,300 --> 01:16:50,300
 Dear friends.
 
-1411
+1395
 01:16:51,300 --> 01:16:54,300
 Each of us has a dream.
 
-1412
+1396
 01:16:55,300 --> 01:16:58,300
 Someone dreams of becoming a ballerina.
 
-1413
+1397
 01:16:59,300 --> 01:17:01,300
 Someone dreams of becoming an engineer.
 
-1414
+1398
 01:17:02,300 --> 01:17:05,300
 But personally, I always dreamed of flying.
 
-1415
+1399
 01:17:06,300 --> 01:17:07,300
 Flying?
 
-1416
+1400
 01:17:07,300 --> 01:17:09,300
 You always dreamed of cutting money for state orders.
 
-1417
+1401
 01:17:10,300 --> 01:17:15,300
 But as we all know, a dream won't come true on its own.
 
-1418
+1402
 01:17:15,300 --> 01:17:20,300
 For its realization, you need to work long and persistently.
 
-1419
+1403
 01:17:20,300 --> 01:17:23,300
 He wrote his speech on VKontakte.
 
-1420
+1404
 01:17:23,300 --> 01:17:28,300
 Thanks to the persistent work of your humble servant,
 
-1421
+1405
 01:17:28,300 --> 01:17:32,300
 soon every resident of the Black Sea coast
 
-1422
+1406
 01:17:32,300 --> 01:17:38,300
 will be able to use the service of a flying taxi.
 
-1423
+1407
 01:17:41,300 --> 01:17:44,300
 Well, I hope it will be possible,
 
-1424
+1408
 01:17:44,300 --> 01:17:47,300
 provided we get enough money.
 
-1425
+1409
 01:17:50,300 --> 01:17:51,300
 Nikita, it's all gone.
 
-1426
+1410
 01:17:51,300 --> 01:17:52,300
 We won't make it in time.
 
-1427
+1411
 01:17:52,300 --> 01:17:53,300
 Let's go.
 
-1428
+1412
 01:17:53,300 --> 01:17:54,300
 No.
 
-1429
+1413
 01:17:54,300 --> 01:17:57,300
 Ladies and gentlemen, let's welcome my unique invention!
 
-1430
+1414
 01:18:04,300 --> 01:18:06,300
 Thank you very much.
 
-1431
+1415
 01:18:06,300 --> 01:18:08,300
 My pleasure.
 
-1432
+1416
 01:18:08,300 --> 01:18:10,300
 Thank you.
 
-1433
+1417
 01:18:10,300 --> 01:18:12,300
 Where is your persistent Chairman Kim Jong Il of China?
 
-1434
+1418
 01:18:12,300 --> 01:18:13,300
 Come on in.
 
-1435
+1419
 01:18:13,300 --> 01:18:15,300
 It'll be much better in no time.
 
-1436
+1420
 01:18:15,300 --> 01:18:16,300
 Congratulations.
 
-1437
+1421
 01:18:16,300 --> 01:18:17,300
 Sit down.
 
-1438
+1422
 01:18:18,300 --> 01:18:19,300
 She's funny.
 
-1439
+1423
 01:18:19,300 --> 01:18:20,300
 Did you all get it?
 
-1440
+1424
 01:18:20,300 --> 01:18:21,300
 Yes.
 
-1441
+1425
 01:18:24,300 --> 01:18:25,300
 Excuse me.
 
-1442
+1426
 01:18:26,300 --> 01:18:28,300
 You can ask anything you want, Ye GPUKAN.
 
-1443
+1427
 01:18:28,300 --> 01:18:29,300
 What?
 
-1444
+1428
 01:18:30,300 --> 01:18:31,300
 What did you order?
 
-1445
+1429
 01:18:31,300 --> 01:18:32,300
 I was perfect.
 
-1446
+1430
 01:18:32,300 --> 01:18:33,300
 Oh.
 
-1447
+1431
 01:18:33,300 --> 01:18:35,300
 You are called attention and we beg your forgiveness in a hurry.
 
-1448
+1432
 01:18:35,300 --> 01:18:37,300
 Come here.
 
-1449
+1433
 01:18:37,300 --> 01:18:39,300
 Come here.
 
-1450
+1434
 01:18:50,300 --> 01:18:52,300
 One, two, three.
 
-1451
+1435
 01:18:56,300 --> 01:18:57,300
 Thank you.
 
-1452
+1436
 01:18:57,300 --> 01:18:59,300
 Do you think they made it?
 
-1453
+1437
 01:19:01,300 --> 01:19:03,300
 I don't see them.
 
-1454
+1438
 01:19:05,300 --> 01:19:07,300
 Let's go.
 
-1455
+1439
 01:19:16,300 --> 01:19:18,300
 We made it.
 
-1456
+1440
 01:19:22,300 --> 01:19:25,300
 We have a little technical problem.
 
-1457
+1441
 01:19:31,300 --> 01:19:33,300
 We'll fix it now.
 
-1458
+1442
 01:19:33,300 --> 01:19:35,300
 Eat while the sandwiches...
 
-1459
+1443
 01:19:35,300 --> 01:19:37,300
 Drink some lemonade...
 
-1460
+1444
 01:19:37,300 --> 01:19:39,300
 Listen to some music...
 
-1461
+1445
 01:19:39,300 --> 01:19:41,300
 Anthrax!
 
-1462
+1446
 01:20:00,300 --> 01:20:02,300
 Take them.
 
-1463
+1447
 01:20:05,300 --> 01:20:06,300
 Take it.
 
-1464
+1448
 01:20:17,300 --> 01:20:19,300
 There is some lousy things there.
 
-1465
+1449
 01:20:19,300 --> 01:20:21,300
 Nina, go out, please.
 
-1466
+1450
 01:20:21,300 --> 01:20:23,300
 I'm there.
 
-1467
+1451
 01:20:24,300 --> 01:20:26,300
 Concert is over.
 
-1468
+1452
 01:20:27,300 --> 01:20:30,300
 The director of the company is a fraud.
 
-1469
+1453
 01:20:30,300 --> 01:20:33,300
 He made 2 billion rubles, but did not make the taxi.
 
-1470
+1454
 01:20:33,300 --> 01:20:34,300
 He stole the taxi.
 
-1471
+1455
 01:20:34,300 --> 01:20:35,300
 It's a baby.
 
-1472
+1456
 01:20:35,980 --> 01:20:36,980
 Who stole it?
 
-1473
+1457
 01:20:37,980 --> 01:20:38,980
 The competitors.
 
-1474
+1458
 01:20:39,020 --> 01:20:41,420
 Ask him what principle the ship works on,
 
-1475
+1459
 01:20:41,460 --> 01:20:42,940
 what fuel, what speed.
 
-1476
+1460
 01:20:43,180 --> 01:20:44,820
 Why didn't the ship take off?
 
-1477
+1461
 01:20:45,300 --> 01:20:47,660
 Because he stole it! It's not his ship!
 
-1478
+1462
 01:20:47,820 --> 01:20:50,020
 No, please! I didn't say anything!
 
-1479
+1463
 01:21:01,020 --> 01:21:02,020
 Who is it?
 
-1480
+1464
 01:21:04,300 --> 01:21:05,300
 Who is she?
 
-1481
+1465
 01:21:06,580 --> 01:21:07,620
 Call in!
 
-1482
+1466
 01:21:14,700 --> 01:21:15,780
 Hi!
 
-1483
+1467
 01:21:16,500 --> 01:21:17,660
 It's from an expensive multimedicine doll.
 
-1484
+1468
 01:21:17,940 --> 01:21:19,300
 For five thousand rubles.
 
-1485
+1469
 01:21:25,620 --> 01:21:26,620
 Warrior!
 
-1486
+1470
 01:21:28,100 --> 01:21:29,100
 One thousandلة
 
-1487
+1471
 01:21:34,300 --> 01:21:39,300
 EPISODE 1
 
-1488
+1472
 01:21:43,300 --> 01:21:46,300
 Well, now everything will be fine for sure.
 
-1489
+1473
 01:21:47,300 --> 01:21:50,300
 And you will remember this moment forever.
 
-1490
+1474
 01:21:57,300 --> 01:21:58,300
 One moment.
 
-1491
+1475
 01:22:04,300 --> 01:22:05,300
 One moment.
 
-1492
+1476
 01:22:17,300 --> 01:22:19,300
 Nikita, I have an idea.
 
-1493
+1477
 01:22:19,300 --> 01:22:21,300
 Do you remember about the diminution?
 
-1494
+1478
 01:22:21,300 --> 01:22:22,300
 Look.
 
-1495
+1479
 01:22:24,300 --> 01:22:25,300
 I'll show you now.
 
-1496
+1480
 01:22:28,300 --> 01:22:29,300
 Let's go.
 
-1497
+1481
 01:22:33,300 --> 01:22:34,300
 What's going on?
 
-1498
+1482
 01:22:34,300 --> 01:22:35,300
 What's going on?
 
-1499
+1483
 01:22:38,300 --> 01:22:39,300
 Nikita, follow me.
 
-1500
+1484
 01:22:39,300 --> 01:22:40,300
 Dad, this is our chance.
 
-1501
+1485
 01:22:40,300 --> 01:22:41,300
 Run faster.
 
-1502
+1486
 01:22:45,300 --> 01:22:47,300
 Good luck, Kurakaki.
 
-1503
+1487
 01:22:47,300 --> 01:22:48,300
 See you at home.
 
-1504
+1488
 01:22:48,300 --> 01:22:49,300
 Roger that.
 
-1505
+1489
 01:22:49,300 --> 01:22:50,300
 Be careful.
 
-1506
+1490
 01:23:05,300 --> 01:23:06,300
 Good luck.
 
-1507
+1491
 01:23:09,300 --> 01:23:10,300
 Kumai!
 
-1508
+1492
 01:23:15,300 --> 01:23:17,300
 Have you heard that?
 
-1509
+1493
 01:23:18,300 --> 01:23:20,300
 No one wants to visit Couple's house only.
 
-1510
+1494
 01:23:22,300 --> 01:23:24,300
 I didn't know that we could meet so well in silence.
 
-1511
+1495
 01:23:26,300 --> 01:23:29,300
 It feels so wonderful in my mind.
 
-1512
+1496
 01:23:29,300 --> 01:23:30,300
 Yes, it does.
 
-1513
+1497
 01:23:30,300 --> 01:23:31,300
 It really feels better here.
 
-1514
+1498
 01:23:31,300 --> 01:23:36,300
 You know, Stunt, this is my first flight. I've never been on a plane before.
 
-1515
+1499
 01:23:36,300 --> 01:23:40,300
 And here's a spaceship! Thank you, Stunt!
 
-1516
+1500
 01:23:40,300 --> 01:23:44,300
 Hey, hey! Easy, easy! Be careful, Ikita!
 
-1517
+1501
 01:23:46,300 --> 01:23:51,300
 Be careful, or we'll fall into the swamp again!
 
-1518
+1502
 01:24:01,300 --> 01:24:06,300
 The End
 
-1519
+1503
 01:24:13,300 --> 01:24:17,300
 Well, Semyonovs, now it's our turn.
 
-1520
+1504
 01:24:17,300 --> 01:24:20,300
 Thank you, fellow earthlings.
 
-1521
+1505
 01:24:20,300 --> 01:24:23,300
 I think I understood what I was waiting for.
 
-1522
+1506
 01:24:23,300 --> 01:24:25,300
 Meeting you.
 
-1523
+1507
 01:24:25,300 --> 01:24:28,300
 I am grateful that you accepted me into your family.
 
-1524
+1508
 01:24:28,300 --> 01:24:30,300
 And family is a great power.
 
-1525
+1509
 01:24:30,300 --> 01:24:32,300
 Much more than a step.
 
-1526
+1510
 01:24:32,300 --> 01:24:35,300
 What? Will you come to us again?
 
-1527
+1511
 01:24:35,300 --> 01:24:37,300
 I'll try, Nikita.
 
-1528
+1512
 01:24:37,300 --> 01:24:39,300
 But I don't know when.
 
-1529
+1513
 01:25:00,300 --> 01:25:03,300
 Nikita, it's time to let go of a friend.
 
-1530
+1514
 01:25:06,300 --> 01:25:07,300
 I'm waiting.
 
-1531
+1515
 01:25:07,300 --> 01:25:08,300
 Goodbye.
 
-1532
+1516
 01:25:08,300 --> 01:25:11,300
 Goodbye. I'll miss you.
 
-1533
+1517
 01:25:30,300 --> 01:25:32,300
 Goodbye.
 
-1534
+1518
 01:25:38,300 --> 01:25:41,300
 Well, let's go, Semyonovs.
 
-1535
+1519
 01:25:42,300 --> 01:25:45,300
 Long wires, long tears.
 
-1536
+1520
 01:25:45,300 --> 01:25:47,300
 Goodbye, Semyonovs.
 
-1537
+1521
 01:25:47,300 --> 01:25:48,300
 Goodbye, Nikita.
 
-1538
+1522
 01:25:48,300 --> 01:25:49,300
 Goodbye, Nikita.
 
-1539
+1523
 01:25:49,300 --> 01:25:51,300
 Goodbye, Nikita.
 
-1540
+1524
 01:25:51,300 --> 01:25:53,300
 Goodbye.
 
-1541
+1525
 01:25:53,300 --> 01:25:55,300
 Goodbye, Nikita.
 
-1542
+1526
 01:25:55,300 --> 01:25:57,300
 Goodbye.
 
-1543
+1527
 01:25:59,300 --> 01:26:00,300
 So what, Alya?
 
-1544
+1528
 01:26:00,300 --> 01:26:03,300
 This is my new room.
 
-1545
+1529
 01:26:04,300 --> 01:26:06,300
 You see how the kids hung around?
 
-1546
+1530
 01:26:07,300 --> 01:26:08,300
 Beautiful.
 
-1547
+1531
 01:26:11,300 --> 01:26:12,300
 So.
 
-1548
+1532
 01:26:15,300 --> 01:26:20,300
 I love you so much.
 
-1549
+1533
 01:26:31,300 --> 01:26:36,300
 Things are going well for us. Mikhail has finally found a new job.
 
-1550
+1534
 01:26:36,300 --> 01:26:39,300
 And now he is the boss himself.
 
-1551
+1535
 01:26:39,300 --> 01:26:44,300
 Katya is now a journalist.
 
-1552
+1536
 01:26:44,300 --> 01:26:48,300
 But not a real one, of course, she is just an intern for now.
 
-1553
+1537
 01:26:48,300 --> 01:26:50,300
 But she is trying very hard.
 
-1554
+1538
 01:26:50,300 --> 01:26:53,300
 Hello, I am reporter Katya Semyonova in the new special column
 
-1555
+1539
 01:26:53,300 --> 01:26:55,300
 Life of our city.
 
-1556
+1540
 01:26:55,300 --> 01:26:57,300
 Tell me, do you live here or have you come to rest?
 
-1557
+1541
 01:26:57,300 --> 01:26:59,300
 We have been here for three days and we like it very much.
 
-1558
+1542
 01:26:59,300 --> 01:27:01,300
 Nikita has found a girl for himself.
 
-1559
+1543
 01:27:01,300 --> 01:27:03,300
 He has been sucking on her for three years.
 
-1560
+1544
 01:27:03,300 --> 01:27:08,300
 And finally he got out of it and invited me to ride a bike.
 
-1561
+1545
 01:27:08,300 --> 01:27:09,300
 All in me.
 
-1562
+1546
 01:27:09,300 --> 01:27:14,300
 And I finally made my own space radio station.
 
-1563
+1547
 01:27:14,300 --> 01:27:21,300
 And now Semyonova and I are always in touch with the Universe.
 
-1564
+1548
 01:27:21,300 --> 01:27:24,300
 Goga, I just want to say hello to you.
 
-1565
+1549
 01:27:24,300 --> 01:27:26,300
 I am fine.
 
-1566
+1550
 01:27:26,300 --> 01:27:28,300
 Very good.
 
-1567
+1551
 01:27:28,300 --> 01:27:35,300
 For a comfortable space trip I am giving you a musical hippie.
 
-1568
+1552
 01:27:39,300 --> 01:27:42,300
 And I will sing a song for you.
 
-1569
+1553
 01:27:42,300 --> 01:27:43,300
 Sing!
 
-1570
+1554
 01:27:43,300 --> 01:27:47,300
 Cosmodrome
 
-1571
+1555
 01:27:47,300 --> 01:27:53,300
 For me it is an icy blue
 
-1572
+1556
 01:27:55,300 --> 01:28:01,300
 And we will dream of grass, grass, grass
 
-1573
+1557
 01:28:01,300 --> 01:28:08,300
 Green, green grass
 
-1574
+1558
 01:28:09,300 --> 01:28:32,300
 GRESS
 
-1575
+1559
 01:28:32,300 --> 01:28:34,300
 I have landed in another planet
 
-1576
+1560
 01:28:34,300 --> 01:28:36,300
 I have eaten grandpa all the sweets
 
-1577
+1561
 01:28:36,300 --> 01:28:38,300
 Become my friend between the galaxies
 
-1578
+1562
 01:28:38,300 --> 01:28:42,300
 We were hiding it from the agents, and they are still looking for it.
 
-1579
+1563
 01:28:42,300 --> 01:28:45,300
 It's so cute and a little shabby. Who are these guys?
 
-1580
+1564
 01:28:45,300 --> 01:28:46,300
 I'm waiting.
 
-1581
+1565
 01:28:48,300 --> 01:28:49,300
 Waiting, waiting.
 
-1582
+1566
 01:28:52,300 --> 01:28:53,300
 I'm waiting.
 
-1583
+1567
 01:28:58,300 --> 01:29:00,300
 Waiting, waiting, waiting, waiting, waiting.
 
-1584
+1568
 01:29:08,300 --> 01:29:09,300
 I'm waiting.
 
-1585
+1569
 01:29:11,300 --> 01:29:12,300
 I'm waiting.
 
-1586
+1570
 01:29:15,300 --> 01:29:16,300
 Left.
 
-1587
+1571
 01:29:17,300 --> 01:29:18,300
 Right.
 
-1588
+1572
 01:29:19,300 --> 01:29:20,300
 We're sitting.
 
-1589
+1573
 01:29:21,300 --> 01:29:22,300
 Waiting.
 
-1590
+1574
 01:29:25,300 --> 01:29:26,300
 I'm waiting.
 
-1591
+1575
 01:29:28,300 --> 01:29:29,300
 Left.
 
-1592
+1576
 01:29:30,300 --> 01:29:31,300
 Right.
 
-1593
+1577
 01:29:32,300 --> 01:29:33,300
 Down.
 
-1594
+1578
 01:29:34,300 --> 01:29:35,300
 Up.
 
-1595
+1579
 01:29:36,300 --> 01:29:37,300
 Let's shake the Broom!
 
-1596
+1580
 01:29:37,300 --> 01:29:38,300
 Lower it!
 
-1597
+1581
 01:29:38,300 --> 01:29:39,300
 I'm waiting.
 
-1598
+1582
 01:29:39,300 --> 01:29:40,300
 Waiting, waiting.
 
-1599
+1583
 01:29:41,300 --> 01:29:42,300
 Hands up!
 
-1600
+1584
 01:29:45,300 --> 01:29:46,300
 I'm waiting.
 
-1601
+1585
 01:29:48,300 --> 01:29:49,300
 Shaking, shaking.
 
-1602
+1586
 01:29:52,300 --> 01:29:53,300
 Cockroach.
 
-1603
+1587
 01:30:00,300 --> 01:30:01,300
 I'm waiting.
 
-1604
+1588
 01:30:03,300 --> 01:30:04,300
 Shaking, shaking.
 
-1605
+1589
 01:30:06,300 --> 01:30:07,300
 Cockroach.
 
-1606
+1590
 01:30:09,300 --> 01:30:10,300
 I'm waiting.
 
-1607
+1591
 01:30:11,300 --> 01:30:23,300
 Let's shake the Broom!
 
-1608
+1592
 01:30:23,300 --> 01:30:30,300
 I'm waiting.
 
-1609
+1593
 01:30:30,300 --> 01:30:36,300
 I'm waiting.
 
-1610
+1594
 01:30:36,300 --> 01:30:39,300
 I'm waiting, I know how to wait!
 
-1611
+1595
 01:30:41,300 --> 01:30:43,300
 I'm waiting
 
-1612
+1596
 01:30:44,300 --> 01:30:46,300
 Left
 
-1613
+1597
 01:30:46,300 --> 01:30:48,300
 Right
 
-1614
+1598
 01:30:48,300 --> 01:30:50,300
 Down
 
-1615
+1599
 01:30:50,300 --> 01:30:52,300
 Up
 
-1616
+1600
 01:30:52,300 --> 01:30:54,300
 Tired
 
-1617
+1601
 01:30:56,300 --> 01:30:58,300
 I'm waiting
 
-1618
+1602
 01:31:00,300 --> 01:31:02,300
 Left
 
-1619
+1603
 01:31:02,300 --> 01:31:04,300
 Right
 
-1620
+1604
 01:31:04,300 --> 01:31:06,300
 Down
 
-1621
+1605
 01:31:06,300 --> 01:31:08,300
 Up
 
-1622
+1606
 01:31:08,300 --> 01:31:10,300
 Tired
 
-1623
+1607
 01:31:10,300 --> 01:31:12,300
 I'm waiting
 
-1624
+1608
 01:31:12,300 --> 01:31:14,300
 Left
 
-1625
+1609
 01:31:14,300 --> 01:31:16,300
 Right
 
-1626
+1610
 01:31:16,300 --> 01:31:18,300
 Down
 
-1627
+1611
 01:31:18,300 --> 01:31:20,300
 Up
 
-1628
+1612
 01:31:20,300 --> 01:31:22,300
 Tired
 
-1629
+1613
 01:31:22,300 --> 01:31:24,300
 I'm waiting
 
-1630
+1614
 01:31:24,300 --> 01:31:26,300
 I'm waiting
 
-1631
+1615
 01:31:26,300 --> 01:31:28,300
 Hands up
 
-1632
+1616
 01:31:30,300 --> 01:31:32,300
 I'm waiting
 
-1633
+1617
 01:31:34,300 --> 01:31:36,300
 Swing
 
-1634
+1618
 01:31:36,300 --> 01:31:38,300
 Crick
 
-1635
+1619
 01:31:38,300 --> 01:31:40,300
 Crack
 
-1636
+1620
 01:31:40,300 --> 01:31:42,100
 Room
 
-1637
+1621
 01:31:45,300 --> 01:31:46,300
 I'm waiting
 
-1638
+1622
 01:31:48,300 --> 01:31:50,300
 Splitting
 
-1639
+1623
 01:31:51,300 --> 01:31:53,300
 Crack
 
-1640
+1624
 01:31:54,800 --> 01:31:56,300
 Room
